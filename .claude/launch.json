@@ -5,7 +5,7 @@
       "name": "mascotaideal",
       "runtimeExecutable": "node",
       "runtimeArgs": ["_build/serve.js"],
-      "port": 4174
+      "port": 4173
     }
   ]
 }
