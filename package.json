@@ -1,0 +1,11 @@
+{
+  "name": "amazon-afiliados-mascotaideal",
+  "private": true,
+  "version": "0.1.0",
+  "description": "MascotaIdeal: web de contenido para el alta en el Programa de Afiliados de Amazon (nicho: accesorios para perros y gatos).",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "node _build/serve.js",
+    "start": "node build.js && node _build/serve.js"
+  }
+}
