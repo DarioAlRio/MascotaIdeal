@@ -13,10 +13,9 @@ const SITE = {
   locale: "es_ES",
   lang: "es",
   email: "hola@mascotaideal.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
-  // Tag de afiliado de Amazon: PENDIENTE crear un tracking ID nuevo para este
-  // sitio desde el panel de afiliados ("Administrar seguimiento de ID") y
-  // añadir esta URL a "Tus páginas web". Ver PENDIENTE.md.
-  amazonTag: "mascotaideal-21",
+  // Store ID real, confirmado directamente por el titular del sitio
+  // (no un dato generado por ningún agente): "mascotaideal0b-21".
+  amazonTag: "mascotaideal0b-21",
   amazonDisclaimer:
     "Como Afiliado de Amazon, MascotaIdeal obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.",
   social: {
