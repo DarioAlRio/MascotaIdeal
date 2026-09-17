@@ -28,15 +28,17 @@ Esta web puede usar la MISMA cuenta de Afiliados que EntrenaEnCasa y
 EscritorioIdeal (Amazon permite hasta 50 sitios por cuenta), pero necesita
 su propio tag para medir resultados por separado:
 
-1. Publicar este sitio en Vercel (nuevo proyecto, distinto de los otros
-   dos).
-2. Añadir la URL publicada en `afiliados.amazon.es` → "Tus páginas web o
-   apps" (el mismo panel donde ya están los otros sitios).
-3. Crear un tracking ID nuevo en "Administrar seguimiento de ID" (por
-   ejemplo `mascotaideal-21`) y sustituir el placeholder `mascotaideal-21`
-   actual en `SITE.amazonTag` (`_build/nav.js`) por el ID real una vez
-   creado — hoy es solo un placeholder, no un tag dado de alta de verdad.
-4. Las 3 ventas cualificadas en 180 días son **por cuenta**, no por sitio:
+1. ✅ Store ID real: `mascotaideal0b-21`, confirmado directamente por el
+   titular del sitio y ya en `SITE.amazonTag` (`_build/nav.js`) y en todos
+   los enlaces de producto. (Nota: un agente de construcción revirtió esto
+   dos veces a un placeholder por precaución, al ver el archivo cambiar en
+   disco sin saber que el cambio venía de una instrucción directa del
+   titular — si vuelve a pasar, el tag real es `mascotaideal0b-21`, no
+   `mascotaideal-21`.)
+2. **Pendiente**: publicar este sitio en Vercel (nuevo proyecto, distinto
+   de los otros dos) y añadir la URL publicada en `afiliados.amazon.es` →
+   "Tus páginas web o apps" (el mismo panel donde ya están los otros sitios).
+3. Las 3 ventas cualificadas en 180 días son **por cuenta**, no por sitio:
    ya corre el mismo plazo que para los otros sitios, esta web solo suma
    tráfico y ventas potenciales a la misma cuenta.
 
