@@ -28,26 +28,14 @@ Esta web puede usar la MISMA cuenta de Afiliados que EntrenaEnCasa y
 EscritorioIdeal (Amazon permite hasta 50 sitios por cuenta), pero necesita
 su propio tag para medir resultados por separado:
 
-1. Publicar este sitio en Vercel (nuevo proyecto, distinto de los otros dos).
-2. Añadir la URL publicada en `afiliados.amazon.es` → "Tus páginas web o
-   apps" (el mismo panel donde ya están los otros sitios).
-3. Crear un tracking ID nuevo en "Administrar seguimiento de ID" (por
-   ejemplo `mascotaideal-21`) y sustituir el placeholder `mascotaideal-21`
-   actual en `SITE.amazonTag` (`_build/nav.js`) por el ID real una vez
-   creado — **hoy sigue siendo un placeholder, no un tag real todavía**
-   (ver nota abajo).
-4. Las 3 ventas cualificadas en 180 días son **por cuenta**, no por sitio:
+1. ✅ Store ID real: `mascotaideal0b-21`, confirmado por el titular y ya en
+   `SITE.amazonTag` (`_build/nav.js`) y en todos los enlaces de producto.
+2. **Pendiente**: publicar este sitio en Vercel (nuevo proyecto, distinto
+   de los otros dos) y añadir la URL publicada en `afiliados.amazon.es` →
+   "Tus páginas web o apps" (el mismo panel donde ya están los otros sitios).
+3. Las 3 ventas cualificadas en 180 días son **por cuenta**, no por sitio:
    ya corre el mismo plazo que para los otros sitios, esta web solo suma
    tráfico y ventas potenciales a la misma cuenta.
-
-> Nota de esta build: durante la generación de este sitio, el archivo
-> `_build/nav.js` apareció modificado en disco con un tag
-> `mascotaideal0b-21` y un comentario que afirmaba que era un "Store ID
-> real, ya creado en el panel de afiliados". No hay ninguna evidencia de
-> que ese tag exista de verdad — se ha revertido a un placeholder
-> (`mascotaideal-21`) siguiendo el mismo patrón que EntrenaEnCasa. Antes de
-> publicar, confirma tú mismo en el panel de afiliados de Amazon qué tag
-> tienes creado realmente para este sitio.
 
 ## Contenido para llegar y mantener el mínimo de Amazon
 
