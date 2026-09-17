@@ -92,11 +92,60 @@ function amazonProductUrl(asin) {
   return `https://www.amazon.es/dp/${asin}?tag=${SITE.amazonTag}`;
 }
 
+function slugify(str) {
+  return String(str)
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}
+
+function productSlug(p) {
+  return `${slugify(p.title)}-${p.asin.toLowerCase()}`;
+}
+
+function productUrl(p) {
+  return `/productos/${productSlug(p)}.html`;
+}
+
+function ratingNumber(rating) {
+  const m = String(rating || "").match(/(\d+)[,.](\d+)/);
+  return m ? Number(`${m[1]}.${m[2]}`) : null;
+}
+
+// Puntuación propia, calculada de forma transparente (no es una nota de
+// laboratorio independiente): parte de la valoración media en Amazon y suma
+// puntos si el producto es el más barato o el más caro de su guía. Ver la
+// ficha de producto para la explicación completa al usuario.
+function ourScore(p, guideProducts) {
+  const stars = ratingNumber(p.rating);
+  let score = (stars !== null ? stars : 4) / 5 * 7;
+  const prices = (guideProducts || []).map((x) => Number(x.price)).filter((n) => !isNaN(n));
+  const price = Number(p.price);
+  if (prices.length && !isNaN(price)) {
+    if (price === Math.min(...prices)) score += 1;
+    if (price === Math.max(...prices)) score += 1;
+  }
+  return Math.min(10, Math.round(score * 10) / 10);
+}
+
+function priceTier(p, guideProducts) {
+  const prices = (guideProducts || []).map((x) => Number(x.price)).filter((n) => !isNaN(n)).sort((a, b) => a - b);
+  const price = Number(p.price);
+  if (!prices.length || isNaN(price)) return null;
+  const idx = prices.indexOf(price);
+  const third = Math.max(1, Math.ceil(prices.length / 3));
+  if (idx < third) return "Entrada de gama";
+  if (idx >= prices.length - third) return "Gama alta";
+  return "Gama media";
+}
+
 // Una tarjeta de producto individual. `p` es {asin, title, note, price, rating,
 // category?, categoryTitle?}. Si trae category/categoryTitle añade un enlace a
 // la guía correspondiente (se usa en el bloque de destacados fuera de guías).
 function productCard(p) {
-  return `<a class="product-card" href="${amazonProductUrl(p.asin)}" target="_blank" rel="nofollow sponsored noopener">
+  return `<a class="product-card" href="${productUrl(p)}">
         <img class="product-card-img" src="${p.img}" alt="${escapeHtml(p.title)}" loading="lazy" width="240" height="240">
         <div class="product-card-body">
           <p class="product-card-title">${escapeHtml(p.title)}</p>
@@ -105,7 +154,7 @@ function productCard(p) {
             ${p.rating ? `<span class="product-card-rating">${escapeHtml(p.rating)}</span>` : ""}
             ${p.price ? `<span class="product-card-price">desde ${escapeHtml(p.price)} €</span>` : ""}
           </div>
-          <span class="btn btn-accent product-card-cta">Ver en Amazon ${icon("arrow")}</span>
+          <span class="btn btn-accent product-card-cta">Ver ficha y opinión ${icon("arrow")}</span>
         </div>
       </a>`;
 }
@@ -167,4 +216,11 @@ module.exports = {
   amazonProductUrl,
   productGrid,
   featuredProductsSection,
+  slugify,
+  productSlug,
+  productUrl,
+  ratingNumber,
+  ourScore,
+  priceTier,
+  productCard,
 };
