@@ -70,6 +70,25 @@
     }
   }
 
+  function initProductFilter() {
+    var bar = document.querySelector("[data-product-filter]");
+    if (!bar) return;
+    var buttons = bar.querySelectorAll(".filter-btn");
+    var cards = document.querySelectorAll(".product-card-wrap[data-category]");
+    bar.addEventListener("click", function (e) {
+      var btn = e.target.closest(".filter-btn");
+      if (!btn) return;
+      var filter = btn.getAttribute("data-filter");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].classList.toggle("is-active", buttons[i] === btn);
+      }
+      for (var j = 0; j < cards.length; j++) {
+        var show = filter === "all" || cards[j].getAttribute("data-category") === filter;
+        cards[j].style.display = show ? "" : "none";
+      }
+    });
+  }
+
   function ready(fn) {
     if (document.readyState !== "loading") fn();
     else document.addEventListener("DOMContentLoaded", fn);
@@ -79,5 +98,6 @@
     initMail();
     initMobileNav();
     initCookieBanner();
+    initProductFilter();
   });
 })();
