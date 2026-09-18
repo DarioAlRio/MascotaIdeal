@@ -13,6 +13,7 @@ const GUIDES = [
     title: "Cómo elegir un arnés para perro",
     dek: "Antitirones, de paseo o táctico: qué mirar según el tamaño y el carácter de tu perro antes de comprar.",
     updated: "2026-09-16",
+    img: "/assets/img/guias/arneses-para-perros.jpg",
     intro: [
       "Un arnés mal elegido no solo incomoda a tu perro: puede rozarle las axilas, dejarle escapar en un susto o no servir de nada si tira fuerte de la correa. Acertar depende más de la forma del arnés y del ajuste que del precio.",
       "Esta guía no recomienda un modelo concreto: te da los criterios para comparar cualquier arnés, incluidos los que encuentres en Amazon.",
@@ -128,6 +129,7 @@ const GUIDES = [
     title: "Cómo elegir una correa para perro",
     dek: "Fija, extensible o multifunción: qué formato de correa compensa según cómo paseas a tu perro.",
     updated: "2026-09-15",
+    img: "/assets/img/guias/correas-para-perros.jpg",
     intro: [
       "La correa parece lo más simple del equipo de paseo, pero el formato equivocado es la causa habitual de tirones al hombro, enganches con otros perros o sustos con el tráfico. El mejor formato depende del sitio donde pasees y del nivel de control que necesites, no de cuál sea \"la más resistente\".",
     ],
@@ -239,6 +241,7 @@ const GUIDES = [
     title: "Comederos automáticos para perros y gatos: guía de compra",
     dek: "Capacidad, control de raciones y limpieza: lo que de verdad marca la diferencia en un comedero automático.",
     updated: "2026-09-14",
+    img: "/assets/img/guias/comederos-automaticos-para-mascotas.jpg",
     intro: [
       "Un comedero automático soluciona horarios irregulares y dietas con raciones controladas, pero no todos valen para el mismo caso: un dispensador pensado para un gato solo no sirve igual para dos perros grandes con distinto apetito.",
     ],
@@ -349,6 +352,7 @@ const GUIDES = [
     title: "Fuentes de agua para perros y gatos: qué mirar antes de comprar",
     dek: "Caudal, capacidad y nivel de ruido: por qué muchas mascotas beben más con una fuente que con un bol.",
     updated: "2026-09-13",
+    img: "/assets/img/guias/fuentes-de-agua-para-mascotas.jpg",
     intro: [
       "Muchos gatos beben menos de lo que deberían porque el agua quieta de un bol no les atrae tanto como el agua en movimiento: una fuente puede ser la diferencia entre una mascota bien hidratada y una con riesgo de problemas urinarios. Pero no todas las fuentes sirven igual para todos los casos.",
     ],
@@ -459,6 +463,7 @@ const GUIDES = [
     title: "Cómo elegir una cama para perro",
     dek: "Ortopédica, acolchada o de tela: qué tener en cuenta según la edad, el tamaño y el sitio donde duerme tu perro.",
     updated: "2026-09-12",
+    img: "/assets/img/guias/camas-para-perros.jpg",
     intro: [
       "Un perro adulto puede pasar más de la mitad del día durmiendo o descansando, así que la cama que elijas influye tanto en su bienestar como un buen pienso. El error más común es guiarse solo por el tamaño y olvidar el tipo de soporte que necesita según la edad y las articulaciones.",
     ],
@@ -569,6 +574,7 @@ const GUIDES = [
     title: "Transportines para perros y gatos: cómo elegir el adecuado",
     dek: "Rígido, blando o mochila: qué transportín necesitas según el medio de transporte y el tamaño de tu mascota.",
     updated: "2026-09-11",
+    img: "/assets/img/guias/transportines-para-mascotas.jpg",
     intro: [
       "Un transportín no es solo para el veterinario: viajar en coche, tren o avión con normas de seguridad exige un tipo concreto, y no todos los modelos sirven para todos los medios de transporte. Elegir mal significa descubrirlo el día del viaje, cuando ya no hay margen para cambiarlo.",
     ],
@@ -680,6 +686,7 @@ const GUIDES = [
     title: "Areneros autolimpiables para gatos: qué mirar antes de comprar",
     dek: "Capacidad, sensores de seguridad y control por app: si un arenero autolimpiable compensa el precio en tu caso.",
     updated: "2026-09-10",
+    img: "/assets/img/guias/areneros-autolimpiables-para-gatos.jpg",
     intro: [
       "Un arenero autolimpiable puede ahorrar la tarea diaria de recoger arena, pero es una de las compras más caras de esta lista y no siempre compensa: depende del número de gatos, del tipo de arena que usan y de cuánto valores automatizar esa tarea.",
     ],
@@ -790,6 +797,7 @@ const GUIDES = [
     title: "Cómo elegir un rascador o árbol para gatos",
     dek: "Postes, plataformas y altura: qué necesita tu gato para no acabar rascando el sofá.",
     updated: "2026-09-09",
+    img: "/assets/img/guias/rascadores-para-gatos.jpg",
     intro: [
       "Rascar es una necesidad física del gato (marcar territorio y mantener las uñas), no un capricho: si no tiene un rascador que le convenza, el sofá o la esquina de un mueble hará ese papel. La clave está en la altura, la estabilidad y el material del poste, no solo en el tamaño del mueble.",
     ],
@@ -900,6 +908,7 @@ const GUIDES = [
     title: "Juguetes interactivos para perros: cómo elegir sin acertar a ciegas",
     dek: "Dispensadores de comida, puzzles de olfato y juguetes de rellenar: qué tipo cansa mentalmente a tu perro de verdad.",
     updated: "2026-09-08",
+    img: "/assets/img/guias/juguetes-interactivos-para-perros.jpg",
     intro: [
       "El cansancio mental agota tanto o más que el físico, y un perro que se aburre en casa es un perro con más probabilidades de desarrollar conductas destructivas. Los juguetes interactivos cubren esa necesidad, pero el tipo correcto depende del nivel de dificultad que tu perro ya domine, no de cuál parece más vistoso en la caja.",
     ],
@@ -1011,6 +1020,7 @@ const GUIDES = [
     title: "Collares GPS para perros y gatos: qué mirar antes de comprar",
     dek: "Cobertura, autonomía de batería y suscripción: cómo elegir un localizador que funcione cuando de verdad lo necesitas.",
     updated: "2026-09-07",
+    img: "/assets/img/guias/collares-gps-para-mascotas.jpg",
     intro: [
       "Un collar GPS solo sirve si funciona en el peor momento posible: cuando la mascota ya se ha escapado. Antes de comprar conviene mirar más allá del precio inicial, porque la cobertura real y el coste de mantenimiento varían mucho entre modelos.",
     ],
@@ -1124,6 +1134,7 @@ const ARTICLES = [
     title: "Cómo montar el rincón perfecto para tu mascota en casa",
     dek: "Cama, agua, zona de juego: el orden lógico para organizar un espacio propio para tu perro o gato.",
     updated: "2026-09-16",
+    img: "/assets/img/blog/como-montar-el-rincon-perfecto-para-tu-mascota-en-casa.jpg",
     body: [
       "Montar un rincón fijo para la mascota ayuda a que asocie ese espacio con calma y descanso, algo especialmente útil en cachorros y gatitos recién llegados a casa, pero también en mascotas adultas que cambian de vivienda.",
       "El orden que mejor funciona suele ser: primero la cama, en una zona tranquila pero no aislada del todo (los animales sociales prefieren descansar cerca de donde está la familia, no en una habitación cerrada); después el agua, en un punto distinto de la comida para fomentar que beban más; y por último la zona de juego o rascado, que puede estar en otro punto de la casa sin problema.",
@@ -1137,6 +1148,7 @@ const ARTICLES = [
     title: "5 errores comunes al elegir arnés o correa",
     dek: "Fallos fáciles de evitar que hacen que el arnés o la correa acaben sin usarse o, peor, sean inseguros.",
     updated: "2026-09-14",
+    img: "/assets/img/blog/5-errores-comunes-al-elegir-arnes-o-correa.jpg",
     body: [
       "Antes de comprar otro arnés o correa, merece la pena revisar si el problema real está en alguno de estos errores habituales, todos evitables sin gastar más dinero.",
       "1. Guiarse solo por el peso del perro para elegir talla. Dos perros del mismo peso pueden tener contornos de pecho muy distintos según la raza: medir antes de comprar evita casi todos los problemas de ajuste.",
@@ -1151,6 +1163,7 @@ const ARTICLES = [
     title: "¿Cuánto merece la pena gastar en accesorios para tu mascota?",
     dek: "Dónde está el salto de calidad real y dónde el precio ya no compra mucho más.",
     updated: "2026-09-12",
+    img: "/assets/img/blog/cuanto-merece-la-pena-gastar-en-accesorios-para-tu-mascota.jpg",
     body: [
       "No existe una cifra válida para todo el mundo, pero sí hay tramos de precio donde el salto de calidad es claro y tramos donde ya no se nota tanto, y varían según el tipo de accesorio.",
       "El primer salto importante suele estar entre lo más barato y la gama media: en arneses y correas, ese tramo marca la diferencia entre materiales que se degradan en meses y otros que aguantan años de paseos diarios. En camas, ese salto está en si llevan o no espuma de mayor densidad, algo que se nota especialmente en perros mayores o pesados.",
@@ -1164,6 +1177,7 @@ const ARTICLES = [
     title: "Cómo preparar a tu mascota para viajar en coche o avión",
     dek: "Los pasos previos que reducen el estrés del viaje, además de elegir bien el transportín.",
     updated: "2026-09-10",
+    img: "/assets/img/blog/como-preparar-a-tu-mascota-para-viajar-en-coche-o-avion.jpg",
     body: [
       "Viajar con una mascota sale mejor cuando la preparación empieza antes del día del viaje, no cuando ya estás metiendo las maletas en el coche o haciendo la maleta para el aeropuerto.",
       "Para el coche, acostumbrar al perro o gato al transportín en casa, con la puerta abierta y premios dentro, evita que la primera vez que lo vea sea también la primera vez que viaja en él. Trayectos cortos de práctica (una vuelta a la manzana) ayudan a detectar si se marea antes de un viaje largo.",
@@ -1177,6 +1191,7 @@ const ARTICLES = [
     title: "Qué necesita realmente un gatito o cachorro el primer mes",
     dek: "La lista mínima de verdad, sin comprar de más antes de conocer las costumbres de tu nueva mascota.",
     updated: "2026-09-07",
+    img: "/assets/img/blog/que-necesita-realmente-un-gatito-o-cachorro-el-primer-mes.jpg",
     body: [
       "El primer mes con un gatito o un cachorro genera la tentación de comprar todo el catálogo de accesorios de golpe, pero la mayoría de necesidades reales del primer mes son pocas y concretas.",
       "Lo imprescindible desde el primer día: una cama o zona de descanso propia, comederos de comida y agua, y en el caso del gatito, un arenero (mejor de bordes bajos al principio, para que le resulte fácil entrar y salir). En el cachorro, collar con chapa identificativa y, en cuanto complete la pauta de vacunación que indique el veterinario, un arnés para las primeras salidas.",

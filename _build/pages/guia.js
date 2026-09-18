@@ -1,7 +1,7 @@
 "use strict";
 
 const { SITE } = require("../nav");
-const { paragraphs, checklist, faqBlock, amazonSearchBox, productGrid, icon } = require("../lib");
+const { paragraphs, checklist, faqBlock, amazonSearchBox, productGrid, icon, escapeHtml } = require("../lib");
 const { pageHero, formatDate } = require("../layout");
 
 function guiaPage(g) {
@@ -20,6 +20,8 @@ function guiaPage(g) {
     title: g.title,
     dek: g.dek,
     updated: g.updated,
+    img: g.img,
+    imgAlt: escapeHtml(g.title),
   })}
   <section class="section">
     <div class="wrap two-col">
