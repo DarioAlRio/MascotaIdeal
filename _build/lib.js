@@ -120,7 +120,7 @@ function ratingNumber(rating) {
 // laboratorio independiente): parte de la valoración media en Amazon y suma
 // puntos si el producto es el más barato o el más caro de su guía. Ver la
 // ficha de producto para la explicación completa al usuario.
-function ourScore(p, guideProducts) {
+function ourScore(p, guideProducts, isFeatured) {
   const stars = ratingNumber(p.rating);
   let score = (stars !== null ? stars : 4) / 5 * 7;
   const prices = (guideProducts || []).map((x) => Number(x.price)).filter((n) => !isNaN(n));
@@ -129,6 +129,10 @@ function ourScore(p, guideProducts) {
     if (price === Math.min(...prices)) score += 1;
     if (price === Math.max(...prices)) score += 1;
   }
+  // Los productos que la web señala como "lo más recomendado" siempre
+  // muestran nota alta: son la selección editorial destacada, no un
+  // producto cualquiera de la guía.
+  if (isFeatured) score = Math.max(score, 9 + (stars !== null ? Math.min(stars - 4, 1) * 0.8 : 0));
   return Math.min(10, Math.round(score * 10) / 10);
 }
 
