@@ -1,7 +1,7 @@
 "use strict";
 
 const { SITE } = require("../nav");
-const { paragraphs } = require("../lib");
+const { paragraphs, escapeHtml } = require("../lib");
 const { pageHero } = require("../layout");
 
 function articuloPage(a) {
@@ -11,6 +11,8 @@ function articuloPage(a) {
     title: a.title,
     dek: a.dek,
     updated: a.updated,
+    img: a.img,
+    imgAlt: escapeHtml(a.title),
   })}
   <section class="section">
     <div class="wrap">

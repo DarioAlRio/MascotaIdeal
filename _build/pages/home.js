@@ -96,7 +96,8 @@ function home() {
 
   <section class="section trust-section">
     <div class="wrap trust-grid">
-      <div>
+      <div class="trust-copy">
+        <img class="trust-photo" src="/assets/img/trust-bg.jpg" alt="Persona acariciando a su perro tranquilamente en casa" loading="lazy" width="600" height="400">
         <h2>¿Por qué esta web?</h2>
         <p>
           Elegir accesorios para tu perro o gato implica decidir sobre cosas que tu mascota va
