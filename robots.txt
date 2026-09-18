@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mascotaideal.vercel.app/sitemap.xml
+Sitemap: https://mascota-ideal.vercel.app/sitemap.xml

@@ -9,7 +9,7 @@ const SITE = {
   description:
     "Guías de compra y comparativas independientes de arneses, correas, comederos, camas, transportines y otros accesorios para perros y gatos, sin recomendaciones pagadas por ninguna marca.",
   // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://mascotaideal.vercel.app",
+  domain: "https://mascota-ideal.vercel.app",
   locale: "es_ES",
   lang: "es",
   email: "hola@mascotaideal.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
