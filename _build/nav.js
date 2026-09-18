@@ -12,7 +12,6 @@ const SITE = {
   domain: "https://mascota-ideal.vercel.app",
   locale: "es_ES",
   lang: "es",
-  email: "hola@mascotaideal.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
   // Store ID real, confirmado directamente por el titular del sitio
   // (no un dato generado por ningún agente): "mascotaideal0b-21".
   amazonTag: "mascotaideal0b-21",
