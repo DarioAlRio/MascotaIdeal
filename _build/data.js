@@ -1525,6 +1525,7 @@ const ARTICLES = [
     title: "Cómo elegir el arnés adecuado para un perro que tira de la correa",
     dek: "El arnés correcto no sustituye la educación en la correa, pero reduce buena parte del tirón mientras se trabaja.",
     updated: "2026-09-19",
+    img: "/assets/img/blog/como-elegir-arnes-para-perro-que-tira-de-la-correa.jpg",
     body: [
       "Casi todos los dueños de un perro que tira de la correa han pasado por lo mismo: el brazo cansado, el hombro resentido y la sensación de que el paseo lo lleva el perro y no al revés. Antes de pensar en clases de adiestramiento, merece la pena revisar si el equipo que usas está ayudando o, sin querer, empeorando el problema.",
       `El punto de partida es el propio arnés. Un <a href='/guias/arneses-para-perros.html'>arnés con la anilla de enganche en el pecho</a> aprovecha la propia fuerza del tirón para girar el cuerpo del perro hacia ti, en lugar de dejarle avanzar en línea recta. No frena físicamente al perro ni le hace daño, pero cambia la mecánica del tirón lo suficiente como para notarse desde el primer paseo.`,
@@ -1538,6 +1539,7 @@ const ARTICLES = [
     title: "Arenero autolimpiable para gatos: ventajas reales y cuándo no compensa",
     dek: "Ahorra tiempo y reduce olores, pero no es la mejor opción para cualquier gato ni para cualquier casa.",
     updated: "2026-09-19",
+    img: "/assets/img/blog/arenero-autolimpiable-para-gatos-ventajas-y-cuando-no-compensa.jpg",
     body: [
       "Un arenero autolimpiable promete lo mismo en todos los anuncios: olvidarte de recoger las heces a mano y reducir el olor en casa. Es cierto en gran parte, pero el salto de un arenero manual a uno automático no es igual de acertado para todos los gatos ni para todas las casas.",
       `La ventaja más clara aparece en casas con más de un gato o con poco tiempo disponible para limpiar varias veces al día. Un <a href='/guias/areneros-autolimpiables-para-gatos.html'>arenero autolimpiable</a> con sensor de peso separa los residuos poco después de que el gato lo use, así que la arena se mantiene limpia con mucha menos intervención manual que un arenero tradicional.`,
@@ -1551,6 +1553,7 @@ const ARTICLES = [
     title: "Collar GPS para mascotas: qué esperar realmente de la cobertura",
     dek: "Antes de comprar uno, conviene entender sus límites de señal, batería y cuota mensual.",
     updated: "2026-09-18",
+    img: "/assets/img/blog/collar-gps-para-mascotas-que-esperar-de-la-cobertura.jpg",
     body: [
       "La idea de un collar GPS es tranquilizadora: saber en todo momento dónde está tu perro o tu gato si se escapa o se pierde. Funciona, pero con matices que la publicidad no siempre deja claros, y conocerlos evita decepciones después de la compra.",
       `La cobertura depende de la red móvil, no solo del dispositivo. Un <a href='/guias/collares-gps-para-mascotas.html'>collar GPS</a> necesita señal de datos para enviar la ubicación al móvil del dueño, así que en zonas rurales, montaña o interiores con mala cobertura la localización puede tardar más en actualizarse o directamente fallar durante un rato, algo especialmente importante si tu mascota suele moverse por ese tipo de entornos.`,
@@ -1564,6 +1567,7 @@ const ARTICLES = [
     title: "Cómo transportar a tu mascota en coche de forma segura",
     dek: "Un viaje corto al parque tiene los mismos riesgos que uno largo si la mascota va suelta por el coche.",
     updated: "2026-09-18",
+    img: "/assets/img/blog/como-transportar-a-tu-mascota-en-coche-de-forma-segura.jpg",
     body: [
       "Muchos dueños solo piensan en cómo transportar a su mascota cuando toca un viaje largo, pero un frenazo brusco en un trayecto corto al parque puede ser igual de peligroso para un perro o gato que viaja suelto por el coche, tanto para él como para el resto de ocupantes.",
       `La opción más segura para trayectos habituales en coche es un <a href='/guias/transportines-para-mascotas.html'>transportín rígido</a> bien sujeto, con espacio suficiente para que la mascota pueda girarse, tumbarse y ponerse de pie sin agacharse. Para perros grandes que no caben cómodamente en un transportín, una rejilla separadora en el maletero o un arnés específico de coche homologado, enganchado al cinturón de seguridad, cumple una función parecida.`,
@@ -1577,6 +1581,7 @@ const ARTICLES = [
     title: "Comederos automáticos: cómo evitar que tu mascota coma demasiado rápido",
     dek: "Comer con ansia no es solo un mal hábito: puede acabar en vómitos o molestias digestivas si no se corrige.",
     updated: "2026-09-17",
+    img: "/assets/img/blog/comederos-automaticos-como-evitar-que-coma-demasiado-rapido.jpg",
     body: [
       "Un perro o gato que engulle la comida en segundos no solo deja el comedero vacío enseguida: comer demasiado rápido puede provocar vómitos poco después de comer, hinchazón abdominal o molestias digestivas, y en perros de razas grandes se ha relacionado con un mayor riesgo de problemas gástricos serios, así que no conviene tratarlo como una simple curiosidad.",
       `Los <a href='/guias/comederos-automaticos-para-mascotas.html'>comederos automáticos</a> pueden ayudar bastante en este punto, pero no por el hecho de ser automáticos en sí, sino por permitir programar más comidas de menor cantidad a lo largo del día en lugar de una o dos raciones grandes. Repartir la misma cantidad total de comida en más tomas reduce la ansiedad con la que el animal se lanza a comer.`,
@@ -1590,6 +1595,7 @@ const ARTICLES = [
     title: "Por qué tu gato sigue arañando el sofá aunque tenga rascador",
     dek: "Tener un rascador en casa no basta si no está en el sitio adecuado o no es del tipo que a tu gato le gusta.",
     updated: "2026-09-17",
+    img: "/assets/img/blog/por-que-tu-gato-sigue-aranando-el-sofa-aunque-tenga-rascador.jpg",
     body: [
       "Comprar un rascador y ver que el gato sigue afilándose las uñas en el sofá es una de las frustraciones más comunes entre dueños de gatos. Arañar es un comportamiento natural que marca territorio y mantiene las uñas en buen estado, así que el objetivo nunca es eliminarlo, sino redirigirlo a un sitio adecuado.",
       `El primer motivo habitual es la ubicación. Colocar el <a href='/guias/rascadores-para-gatos.html'>rascador</a> en un rincón apartado, lejos de donde el gato pasa tiempo, hace que lo ignore: los gatos suelen arañar cerca de las zonas donde duermen o descansan, así que un rascador junto al sofá o cerca de su cama tiene muchas más posibilidades de usarse que uno escondido en otra habitación.`,
@@ -1603,6 +1609,7 @@ const ARTICLES = [
     title: "Juguetes interactivos para perros: cómo elegir sin que acaben cogiendo polvo",
     dek: "El juguete más caro no siempre es el que más entretiene: depende del carácter y del instinto de cada perro.",
     updated: "2026-09-16",
+    img: "/assets/img/blog/juguetes-interactivos-para-perros-como-elegir-sin-fallar.jpg",
     body: [
       "Es habitual comprar un juguete interactivo con muchas expectativas y que acabe abandonado en un rincón a la semana. No suele ser porque el juguete sea malo, sino porque no encaja con lo que realmente motiva a ese perro en concreto.",
       `Antes de elegir un <a href='/guias/juguetes-interactivos-para-perros.html'>juguete interactivo</a>, merece la pena pensar en qué instinto quieres estimular: perros con mucho olfato disfrutan más de juguetes dispensadores de premios que obligan a buscar y manipular, mientras que perros con más impulso de persecución responden mejor a juguetes que se mueven o ruedan por sí solos.`,
@@ -1616,6 +1623,7 @@ const ARTICLES = [
     title: "Cuánta agua debe beber tu perro o gato, y cómo animarle a beber más",
     dek: "Los gatos en particular tienden a beber menos de lo recomendable, y eso tiene consecuencias a largo plazo.",
     updated: "2026-09-16",
+    img: "/assets/img/blog/cuanta-agua-debe-beber-tu-perro-o-gato.jpg",
     body: [
       "La cantidad de agua que necesita un perro o gato varía según su peso, la actividad física, la temperatura ambiente y si su alimentación es seca o húmeda, así que no existe una cifra única válida para todos los casos; el veterinario es quien mejor puede orientar sobre lo que es normal para tu mascota en concreto.",
       "Lo que sí está bastante extendido es que los gatos, por su origen como animales adaptados a climas áridos, tienden a beber menos de lo que sería ideal si su dieta es solo pienso seco. Con el tiempo, una hidratación insuficiente se ha relacionado con más riesgo de problemas urinarios y renales, motivo por el que muchos veterinarios recomiendan vigilar de cerca el consumo de agua en gatos, especialmente a partir de cierta edad.",
@@ -1629,6 +1637,7 @@ const ARTICLES = [
     title: "Cómo preparar a tu mascota para una mudanza sin que se estrese demasiado",
     dek: "Cambiar de casa es una de las situaciones que más ansiedad genera en perros y gatos si no se gestiona bien.",
     updated: "2026-09-15",
+    img: "/assets/img/blog/como-preparar-a-tu-mascota-para-una-mudanza.jpg",
     body: [
       "Una mudanza altera de golpe todos los puntos de referencia de una mascota: los olores, la disposición de los muebles y las rutinas diarias cambian a la vez, y eso puede generar más estrés del que parece a simple vista, sobre todo en gatos, más apegados al territorio que los perros.",
       `Antes del día de la mudanza, mantener los objetos con el olor habitual de la mascota (su <a href='/guias/camas-para-perros.html'>cama</a>, una manta, juguetes ya usados) sin lavar durante esos días ayuda a que reconozca algo familiar en medio del caos de cajas y cambios. No es el mejor momento para estrenar accesorios nuevos: mejor esperar a que la mascota se haya asentado en la casa nueva.`,
@@ -1642,6 +1651,7 @@ const ARTICLES = [
     title: "Correa fija o extensible: cuál usar según cada tipo de salida",
     dek: "No hace falta elegir una sola correa para siempre: lo lógico es adaptarla al sitio donde vayas a pasear.",
     updated: "2026-09-15",
+    img: "/assets/img/blog/correa-fija-o-extensible-segun-cada-salida.jpg",
     body: [
       "Una duda habitual al comprar la primera correa es si conviene una fija o una extensible, como si tuviera que ser una elección definitiva. En la práctica, muchos dueños acaban con las dos, y las alternan según el tipo de salida que vayan a hacer ese día.",
       `Para paseos por la ciudad, cerca de tráfico, cruces o aceras estrechas con gente, una <a href='/guias/correas-para-perros.html'>correa fija de 1,2 a 2 metros</a> da un control mucho más inmediato: la distancia entre tú y el perro no cambia de golpe, así que puedes reaccionar antes ante un coche, una bicicleta u otro perro que se acerque.`,

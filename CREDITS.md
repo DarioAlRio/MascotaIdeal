@@ -22,6 +22,16 @@ necesidad de atribución). Se listan aquí igualmente por trazabilidad.
 | `assets/img/blog/cuanto-merece-la-pena-gastar-en-accesorios-para-tu-mascota.jpg` | https://www.pexels.com/photo/a-happy-couple-with-a-dog-4554275/ |
 | `assets/img/blog/como-preparar-a-tu-mascota-para-viajar-en-coche-o-avion.jpg` | https://www.pexels.com/photo/photograph-of-a-brown-dog-looking-out-from-a-car-window-2640023/ |
 | `assets/img/blog/que-necesita-realmente-un-gatito-o-cachorro-el-primer-mes.jpg` | https://www.pexels.com/photo/cat-lying-beside-a-puppy-8570243/ |
+| `assets/img/blog/como-elegir-arnes-para-perro-que-tira-de-la-correa.jpg` | https://www.pexels.com/photo/dalmatian-dog-standing-on-grass-with-leash-7800873/ |
+| `assets/img/blog/arenero-autolimpiable-para-gatos-ventajas-y-cuando-no-compensa.jpg` | https://www.pexels.com/photo/a-mother-and-child-orange-tabby-cats-13705506/ |
+| `assets/img/blog/collar-gps-para-mascotas-que-esperar-de-la-cobertura.jpg` | https://www.pexels.com/photo/brown-dog-with-a-blue-collar-10257176/ |
+| `assets/img/blog/como-transportar-a-tu-mascota-en-coche-de-forma-segura.jpg` | https://www.pexels.com/photo/dog-sitting-in-the-passenger-seat-in-a-car-8266815/ |
+| `assets/img/blog/comederos-automaticos-como-evitar-que-coma-demasiado-rapido.jpg` | https://www.pexels.com/photo/a-brown-dog-eating-its-food-7086030/ |
+| `assets/img/blog/por-que-tu-gato-sigue-aranando-el-sofa-aunque-tenga-rascador.jpg` | https://www.pexels.com/photo/close-up-photo-of-cat-scratching-the-stool-1674724/ |
+| `assets/img/blog/juguetes-interactivos-para-perros-como-elegir-sin-fallar.jpg` | https://www.pexels.com/photo/boston-terrier-dog-chewing-yellow-toy-indoors-30401679/ |
+| `assets/img/blog/cuanta-agua-debe-beber-tu-perro-o-gato.jpg` | https://www.pexels.com/photo/a-person-helping-the-dog-to-drink-4873126/ |
+| `assets/img/blog/como-preparar-a-tu-mascota-para-una-mudanza.jpg` | https://www.pexels.com/photo/woman-opening-the-door-and-delivery-boxes-and-a-dog-on-the-doormat-6017739/ |
+| `assets/img/blog/correa-fija-o-extensible-segun-cada-salida.jpg` | https://www.pexels.com/photo/boy-walking-dog-on-a-leash-9429158/ |
 | `assets/img/trust-bg.jpg` | https://www.pexels.com/photo/woman-lying-on-floor-petting-husky-5426970/ |
 
 Las fotos de producto (`https://m.media-amazon.com/...`) que ya existían en
