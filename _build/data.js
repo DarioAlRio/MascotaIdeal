@@ -1457,10 +1457,10 @@ const ARTICLES = [
     img: "/assets/img/blog/como-montar-el-rincon-perfecto-para-tu-mascota-en-casa.jpg",
     body: [
       "Montar un rincón fijo para la mascota ayuda a que asocie ese espacio con calma y descanso, algo especialmente útil en cachorros y gatitos recién llegados a casa, pero también en mascotas adultas que cambian de vivienda.",
-      "El orden que mejor funciona suele ser: primero la cama, en una zona tranquila pero no aislada del todo (los animales sociales prefieren descansar cerca de donde está la familia, no en una habitación cerrada); después el agua, en un punto distinto de la comida para fomentar que beban más; y por último la zona de juego o rascado, que puede estar en otro punto de la casa sin problema.",
-      "En gatos, añadir altura al rincón (una balda, un árbol rascador con plataforma) aporta mucho valor porque buscan puntos elevados para vigilar su territorio de forma natural. En perros, un límite físico claro (una manta, una alfombra específica) ayuda a que entienda dónde empieza y termina \"su\" espacio.",
+      "El orden que mejor funciona suele ser: primero <a href=\"/guias/camas-para-perros.html\">la cama</a>, en una zona tranquila pero no aislada del todo (los animales sociales prefieren descansar cerca de donde está la familia, no en una habitación cerrada); después el agua, en un punto distinto de la comida para fomentar que beban más; y por último la zona de juego o rascado, que puede estar en otro punto de la casa sin problema.",
+      "En gatos, añadir altura al rincón (una balda, <a href=\"/guias/rascadores-para-gatos.html\">un árbol rascador con plataforma</a>) aporta mucho valor porque buscan puntos elevados para vigilar su territorio de forma natural. En perros, un límite físico claro (una manta, una alfombra específica) ayuda a que entienda dónde empieza y termina \"su\" espacio.",
       "Evita colocar la cama justo al lado de radiadores o corrientes de aire de puertas y ventanas: la temperatura del rincón influye tanto en el confort como la elección de la cama en sí.",
-      "En las guías de este sitio (camas, comederos, fuentes de agua, rascadores y transportines) desarrollamos cada elemento por separado con más detalle de criterios.",
+      "En las guías de este sitio (camas, comederos, <a href=\"/guias/fuentes-de-agua-para-mascotas.html\">fuentes de agua</a>, rascadores y transportines) desarrollamos cada elemento por separado con más detalle de criterios.",
     ],
   },
   {
@@ -1472,8 +1472,8 @@ const ARTICLES = [
     body: [
       "Antes de comprar otro arnés o correa, merece la pena revisar si el problema real está en alguno de estos errores habituales, todos evitables sin gastar más dinero.",
       "1. Guiarse solo por el peso del perro para elegir talla. Dos perros del mismo peso pueden tener contornos de pecho muy distintos según la raza: medir antes de comprar evita casi todos los problemas de ajuste.",
-      "2. Comprar un arnés con la anilla solo en la espalda para un perro que tira mucho. Sin un punto de enganche en el pecho, el efecto antitirones no existe: el arnés en sí no controla nada si el punto de enganche no ayuda a redirigir la fuerza.",
-      "3. Elegir una correa extensible como única correa en ciudad. Cerca de tráfico, cruces o aceras estrechas, el mecanismo de frenado tarda demasiado en reaccionar: es más segura como complemento en parques que como correa de uso diario urbano.",
+      "2. Comprar <a href=\"/guias/arneses-para-perros.html\">un arnés</a> con la anilla solo en la espalda para un perro que tira mucho. Sin un punto de enganche en el pecho, el efecto antitirones no existe: el arnés en sí no controla nada si el punto de enganche no ayuda a redirigir la fuerza.",
+      "3. Elegir <a href=\"/guias/correas-para-perros.html\">una correa extensible</a> como única correa en ciudad. Cerca de tráfico, cruces o aceras estrechas, el mecanismo de frenado tarda demasiado en reaccionar: es más segura como complemento en parques que como correa de uso diario urbano.",
       "4. No comprobar el material de las hebillas. Unas hebillas de plástico fino pueden ceder con un tirón fuerte inesperado; en perros grandes o fuertes conviene revisar que sean de metal o plástico reforzado.",
       "5. Dejar de ajustar el arnés después de la primera vez. El pelaje cambia con las estaciones y el peso del perro puede variar: revisar el ajuste cada pocos meses evita tanto rozaduras como el riesgo de que se suelte.",
     ],
@@ -1486,10 +1486,10 @@ const ARTICLES = [
     img: "/assets/img/blog/cuanto-merece-la-pena-gastar-en-accesorios-para-tu-mascota.jpg",
     body: [
       "No existe una cifra válida para todo el mundo, pero sí hay tramos de precio donde el salto de calidad es claro y tramos donde ya no se nota tanto, y varían según el tipo de accesorio.",
-      "El primer salto importante suele estar entre lo más barato y la gama media: en arneses y correas, ese tramo marca la diferencia entre materiales que se degradan en meses y otros que aguantan años de paseos diarios. En camas, ese salto está en si llevan o no espuma de mayor densidad, algo que se nota especialmente en perros mayores o pesados.",
-      "El segundo salto, más caro, aparece en productos con electrónica o mecanismos (comederos automáticos, fuentes, areneros autolimpiables, collares GPS): ahí el precio compra sobre todo fiabilidad del mecanismo, control por app más preciso y mejor autonomía de batería, no solo diseño.",
+      "El primer salto importante suele estar entre lo más barato y la gama media: en arneses y <a href=\"/guias/correas-para-perros.html\">correas</a>, ese tramo marca la diferencia entre materiales que se degradan en meses y otros que aguantan años de paseos diarios. En camas, ese salto está en si llevan o no espuma de mayor densidad, algo que se nota especialmente en perros mayores o pesados.",
+      "El segundo salto, más caro, aparece en productos con electrónica o mecanismos (<a href=\"/guias/comederos-automaticos-para-mascotas.html\">comederos automáticos</a>, fuentes, areneros autolimpiables, collares GPS): ahí el precio compra sobre todo fiabilidad del mecanismo, control por app más preciso y mejor autonomía de batería, no solo diseño.",
       "A partir de cierto precio, en la mayoría de categorías lo que se paga de más es marca, diseño o accesorios extra, no una mejora real en los criterios que importan (ajuste, seguridad, capacidad, autonomía). Esos criterios básicos suelen estar ya cubiertos en el tramo de precio medio.",
-      "La pregunta que más ayuda a decidir no es \"¿cuánto cuesta?\" sino \"¿este accesorio depende de un mecanismo que puede fallar?\". Si la respuesta es sí (comedero automático, GPS, arenero autolimpiable), invertir algo más en fiabilidad suele compensar. Si es un accesorio simple (correa, cama, rascador), el tramo medio ya cubre casi todo lo importante.",
+      "La pregunta que más ayuda a decidir no es \"¿cuánto cuesta?\" sino \"¿este accesorio depende de un mecanismo que puede fallar?\". Si la respuesta es sí (comedero automático, GPS, <a href=\"/guias/areneros-autolimpiables-para-gatos.html\">arenero autolimpiable</a>), invertir algo más en fiabilidad suele compensar. Si es un accesorio simple (correa, cama, rascador), el tramo medio ya cubre casi todo lo importante.",
     ],
   },
   {
@@ -1500,9 +1500,9 @@ const ARTICLES = [
     img: "/assets/img/blog/como-preparar-a-tu-mascota-para-viajar-en-coche-o-avion.jpg",
     body: [
       "Viajar con una mascota sale mejor cuando la preparación empieza antes del día del viaje, no cuando ya estás metiendo las maletas en el coche o haciendo la maleta para el aeropuerto.",
-      "Para el coche, acostumbrar al perro o gato al transportín en casa, con la puerta abierta y premios dentro, evita que la primera vez que lo vea sea también la primera vez que viaja en él. Trayectos cortos de práctica (una vuelta a la manzana) ayudan a detectar si se marea antes de un viaje largo.",
+      "Para el coche, acostumbrar al perro o gato al <a href=\"/guias/transportines-para-mascotas.html\">transportín</a> en casa, con la puerta abierta y premios dentro, evita que la primera vez que lo vea sea también la primera vez que viaja en él. Trayectos cortos de práctica (una vuelta a la manzana) ayudan a detectar si se marea antes de un viaje largo.",
       "Para el avión, revisar la normativa concreta de la aerolínea con semanas de antelación es imprescindible: las medidas máximas del transportín, si se permite en cabina o solo en bodega, y la documentación sanitaria necesaria varían mucho entre compañías y no siempre coinciden con lo que dice el fabricante del transportín.",
-      "En ambos casos, no dar de comer justo antes de salir reduce el riesgo de mareo, aunque sí conviene que beba agua con normalidad. Llevar algo con el olor de casa (una manta, un juguete habitual) dentro del transportín ayuda a que el espacio le resulte menos extraño.",
+      "En ambos casos, no dar de comer justo antes de salir reduce el riesgo de mareo, aunque sí conviene que beba agua con normalidad. Llevar algo con el olor de casa (una manta, un juguete habitual) dentro del <a href=\"/guias/transportines-para-mascotas.html\">transportín</a> ayuda a que el espacio le resulte menos extraño.",
       "Por último, comprobar que el microchip está actualizado con tu contacto correcto antes de cualquier viaje es una medida de seguridad básica que cuesta cero y que muchas veces se pasa por alto hasta que ya es tarde.",
     ],
   },
@@ -1514,9 +1514,9 @@ const ARTICLES = [
     img: "/assets/img/blog/que-necesita-realmente-un-gatito-o-cachorro-el-primer-mes.jpg",
     body: [
       "El primer mes con un gatito o un cachorro genera la tentación de comprar todo el catálogo de accesorios de golpe, pero la mayoría de necesidades reales del primer mes son pocas y concretas.",
-      "Lo imprescindible desde el primer día: una cama o zona de descanso propia, comederos de comida y agua, y en el caso del gatito, un arenero (mejor de bordes bajos al principio, para que le resulte fácil entrar y salir). En el cachorro, collar con chapa identificativa y, en cuanto complete la pauta de vacunación que indique el veterinario, un arnés para las primeras salidas.",
-      "Lo que puede esperar: transportín de gama alta, torre de gatos grande o comedero automático programable. Son compras que tienen más sentido cuando ya conoces las costumbres reales de tu mascota (cuánto come, si tira de la correa, si rasca mucho) en lugar de adivinar antes de convivir con ella.",
-      "Un error común es comprar directamente productos de talla \"adulto\": un arnés o una cama pensados para el tamaño final del animal no se ajustan bien a un cachorro o gatito pequeño, así que conviene una talla de transición y cambiar cuando crezca, no comprar de más por adelantado.",
+      "Lo imprescindible desde el primer día: una cama o zona de descanso propia, comederos de comida y agua, y en el caso del gatito, un arenero (mejor de bordes bajos al principio, para que le resulte fácil entrar y salir). En el cachorro, collar con chapa identificativa y, en cuanto complete la pauta de vacunación que indique el veterinario, <a href=\"/guias/arneses-para-perros.html\">un arnés</a> para las primeras salidas.",
+      "Lo que puede esperar: transportín de gama alta, torre de gatos grande o <a href=\"/guias/comederos-automaticos-para-mascotas.html\">comedero automático programable</a>. Son compras que tienen más sentido cuando ya conoces las costumbres reales de tu mascota (cuánto come, si tira de la correa, si rasca mucho) en lugar de adivinar antes de convivir con ella.",
+      "Un error común es comprar directamente productos de talla \"adulto\": un arnés o <a href=\"/guias/camas-para-perros.html\">una cama</a> pensados para el tamaño final del animal no se ajustan bien a un cachorro o gatito pequeño, así que conviene una talla de transición y cambiar cuando crezca, no comprar de más por adelantado.",
       "Por último, las primeras semanas conviene observar más que comprar: cada gatito o cachorro tiene preferencias distintas (dónde le gusta dormir, si prefiere agua en movimiento, si rasca en horizontal o en vertical), y esa información evita compras que acaban sin usarse.",
     ],
   },
