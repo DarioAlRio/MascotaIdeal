@@ -1119,14 +1119,6 @@ const GUIDES = [
     ],
     products: [
       {
-        asin: "B0H9XZ8PY9",
-        title: "Nobleza Arenero Autolimpiable Abierto, Multi-Sensores de Seguridad",
-        note: "Entrada de gama en formato abierto, más económico que los modelos cerrados.",
-        img: "https://m.media-amazon.com/images/I/61-6frH-dyL._AC_UL320_.jpg",
-        price: "169,99",
-        rating: "3,4★",
-      },
-      {
         asin: "B0G3XV7ZKY",
         title: "Ellenpent Arenero Autolimpiable Abierto, Sin Olores, Capacidad Grande",
         note: "Cajón de residuos de capacidad amplia, pensado para reducir vaciados frecuentes.",
@@ -1175,14 +1167,6 @@ const GUIDES = [
         rating: "4,2★",
       },
       {
-        asin: "B009B83V76",
-        title: "Catit Smartsift, Bandeja Sanitaria Automática",
-        note: "La opción más económica de la categoría, con rastrillo giratorio de una marca especializada en accesorios para gatos.",
-        img: "https://m.media-amazon.com/images/I/61p7nlT1hRL._AC_UL320_.jpg",
-        price: "96,36",
-        rating: "3,7★",
-      },
-      {
         asin: "B0GTYCSCWT",
         title: "CATLINK Arenero Autolimpiable, Entrada Superior, WiFi 5GHz, 12L",
         note: "Marca alternativa a PETKIT, con entrada superior para gatos que prefieren saltar dentro.",
@@ -1213,22 +1197,6 @@ const GUIDES = [
         img: "https://m.media-amazon.com/images/I/71JH4Pfm+8L._AC_UL320_.jpg",
         price: "204,99",
         rating: "4,2★",
-      },
-      {
-        asin: "B08YJGW3JL",
-        title: "PETKIT Pura X Arenero Autolimpiable",
-        note: "Sensores de seguridad (térmico, infrarrojos y peso), limpieza automática o temporizada y control por app. Valoración media de 3,7★.",
-        img: "https://m.media-amazon.com/images/I/611-Lu1ceKL._AC_UL320_.jpg",
-        price: "183,30",
-        rating: "3,7★",
-      },
-      {
-        asin: "B0CGNHRPRP",
-        title: "Catlink Baymax-Lite Arenero Autolimpiable",
-        note: "Monitorización de salud del gato desde la app y 4 modos de limpieza, para gatos de 1,5 a 10 kg. 134 valoraciones y 3,6★.",
-        img: "https://m.media-amazon.com/images/I/71phijy0f0L._AC_UL320_.jpg",
-        price: "309,99",
-        rating: "3,6★",
       },
       {
         asin: "B0CSKBWBF6",
@@ -1756,14 +1724,6 @@ const GUIDES = [
         price: "64,99",
         rating: "4,1★",
       },
-      {
-        asin: "B0CHMVRHD8",
-        title: "Weenect Cat XS Mini Collar GPS para Gatos",
-        note: "Versión mini para gatos; requiere suscripción. Valoración de 3,7★ con más de 2.200 opiniones.",
-        img: "https://m.media-amazon.com/images/I/71aAvrAAofL._AC_UL320_.jpg",
-        price: "44,99",
-        rating: "3,7★",
-      },
     ],
   },
 ];
@@ -1800,7 +1760,7 @@ const ARTICLES = [
   },
   {
     slug: "cuanto-merece-la-pena-gastar-en-accesorios-para-tu-mascota",
-    title: "¿Cuánto merece la pena gastar en accesorios para tu mascota?",
+    title: "Cuánto gastar en accesorios para tu mascota: presupuesto recomendado (2026)",
     dek: "Dónde está el salto de calidad real y dónde el precio ya no compra mucho más.",
     updated: "2026-09-12",
     img: "/assets/img/blog/cuanto-merece-la-pena-gastar-en-accesorios-para-tu-mascota.jpg",
