@@ -31,7 +31,8 @@ function escapeHtml(str) {
 }
 
 function paragraphs(arr) {
-  return arr.map((p) => `<p>${p}</p>`).join("\n");
+  // Los bloques que ya son HTML de nivel de bloque (h2, listas) no se envuelven en <p>.
+  return arr.map((p) => (/^<(h[2-4]|ul|ol)[\s>]/.test(p) ? p : `<p>${p}</p>`)).join("\n");
 }
 
 function checklist(items) {

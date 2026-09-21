@@ -33,6 +33,21 @@ necesidad de atribución). Se listan aquí igualmente por trazabilidad.
 | `assets/img/blog/como-preparar-a-tu-mascota-para-una-mudanza.jpg` | https://www.pexels.com/photo/woman-opening-the-door-and-delivery-boxes-and-a-dog-on-the-doormat-6017739/ |
 | `assets/img/blog/correa-fija-o-extensible-segun-cada-salida.jpg` | https://www.pexels.com/photo/boy-walking-dog-on-a-leash-9429158/ |
 | `assets/img/trust-bg.jpg` | https://www.pexels.com/photo/woman-lying-on-floor-petting-husky-5426970/ |
+| `assets/img/blog/mejor-cama-para-perro-grande-como-elegir.jpg` | https://www.pexels.com/photo/5938106/ |
+| `assets/img/blog/cama-ortopedica-para-perros-merece-la-pena.jpg` | https://www.pexels.com/photo/35038689/ |
+| `assets/img/blog/talla-de-arnes-para-perro-como-medir.jpg` | https://www.pexels.com/photo/34285614/ |
+| `assets/img/blog/arnes-o-collar-para-perro-cual-elegir.jpg` | https://www.pexels.com/photo/16254917/ |
+| `assets/img/blog/mejor-rascador-para-gatos-grandes.jpg` | https://www.pexels.com/photo/9957510/ |
+| `assets/img/blog/rascador-para-pisos-pequenos-que-elegir.jpg` | https://www.pexels.com/photo/8481547/ |
+| `assets/img/blog/fuente-de-agua-para-gatos-como-elegir.jpg` | https://www.pexels.com/photo/9881128/ |
+| `assets/img/blog/correa-para-cachorros-tipo-y-longitud.jpg` | https://www.pexels.com/photo/9032928/ |
+| `assets/img/blog/comedero-automatico-para-perros-grandes.jpg` | https://www.pexels.com/photo/6568950/ |
+| `assets/img/blog/comedero-automatico-wifi-o-con-temporizador.jpg` | https://www.pexels.com/photo/31400728/ |
+| `assets/img/blog/transportin-para-avion-con-gato-que-mirar.jpg` | https://www.pexels.com/photo/21767483/ |
+| `assets/img/blog/transportin-rigido-o-blando-cual-elegir.jpg` | https://www.pexels.com/photo/8473661/ |
+| `assets/img/blog/arenero-autolimpiable-para-gatos-grandes.jpg` | https://www.pexels.com/photo/35448796/ |
+| `assets/img/blog/juguetes-para-perros-que-se-quedan-solos-en-casa.jpg` | https://www.pexels.com/photo/5801444/ |
+| `assets/img/blog/collar-gps-para-perros-con-o-sin-suscripcion.jpg` | https://www.pexels.com/photo/5705543/ |
 
 Las fotos de producto (`https://m.media-amazon.com/...`) que ya existían en
 `_build/data.js` no se han tocado: son responsabilidad de Amazon/el vendedor,

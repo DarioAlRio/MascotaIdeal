@@ -122,6 +122,54 @@ const ARTICLE_GUIDES = {
   ],
   "correa-fija-o-extensible-segun-cada-salida": [
     "correas-para-perros"
+  ],
+  "mejor-cama-para-perro-grande-como-elegir": [
+    "camas-para-perros"
+  ],
+  "cama-ortopedica-para-perros-merece-la-pena": [
+    "camas-para-perros"
+  ],
+  "talla-de-arnes-para-perro-como-medir": [
+    "arneses-para-perros",
+    "correas-para-perros"
+  ],
+  "arnes-o-collar-para-perro-cual-elegir": [
+    "arneses-para-perros",
+    "correas-para-perros"
+  ],
+  "mejor-rascador-para-gatos-grandes": [
+    "rascadores-para-gatos"
+  ],
+  "rascador-para-pisos-pequenos-que-elegir": [
+    "rascadores-para-gatos"
+  ],
+  "fuente-de-agua-para-gatos-como-elegir": [
+    "fuentes-de-agua-para-mascotas"
+  ],
+  "correa-para-cachorros-tipo-y-longitud": [
+    "correas-para-perros",
+    "arneses-para-perros"
+  ],
+  "comedero-automatico-para-perros-grandes": [
+    "comederos-automaticos-para-mascotas"
+  ],
+  "comedero-automatico-wifi-o-con-temporizador": [
+    "comederos-automaticos-para-mascotas"
+  ],
+  "transportin-para-avion-con-gato-que-mirar": [
+    "transportines-para-mascotas"
+  ],
+  "transportin-rigido-o-blando-cual-elegir": [
+    "transportines-para-mascotas"
+  ],
+  "arenero-autolimpiable-para-gatos-grandes": [
+    "areneros-autolimpiables-para-gatos"
+  ],
+  "juguetes-para-perros-que-se-quedan-solos-en-casa": [
+    "juguetes-interactivos-para-perros"
+  ],
+  "collar-gps-para-perros-con-o-sin-suscripcion": [
+    "collares-gps-para-mascotas"
   ]
 };
 
