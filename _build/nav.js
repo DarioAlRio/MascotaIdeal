@@ -12,6 +12,7 @@ const SITE = {
   domain: "https://mascota-ideal.vercel.app",
   locale: "es_ES",
   lang: "es",
+  email: "contacto.guiasdecompra@gmail.com",
   // Store ID real, confirmado directamente por el titular del sitio
   // (no un dato generado por ningún agente): "mascotaideal0b-21".
   amazonTag: "mascotaideal0b-21",
