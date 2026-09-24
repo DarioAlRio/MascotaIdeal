@@ -124,8 +124,8 @@ function ratingNumber(rating) {
 function ourScore(p, guideProducts, isFeatured) {
   const stars = ratingNumber(p.rating);
   let score = (stars !== null ? stars : 4) / 5 * 7;
-  const prices = (guideProducts || []).map((x) => Number(x.price)).filter((n) => !isNaN(n));
-  const price = Number(p.price);
+  const prices = (guideProducts || []).map((x) => priceNum(x)).filter((n) => !isNaN(n));
+  const price = priceNum(p);
   if (prices.length && !isNaN(price)) {
     if (price === Math.min(...prices)) score += 1;
     if (price === Math.max(...prices)) score += 1;
@@ -138,8 +138,8 @@ function ourScore(p, guideProducts, isFeatured) {
 }
 
 function priceTier(p, guideProducts) {
-  const prices = (guideProducts || []).map((x) => Number(x.price)).filter((n) => !isNaN(n)).sort((a, b) => a - b);
-  const price = Number(p.price);
+  const prices = (guideProducts || []).map((x) => priceNum(x)).filter((n) => !isNaN(n)).sort((a, b) => a - b);
+  const price = priceNum(p);
   if (!prices.length || isNaN(price)) return null;
   const idx = prices.indexOf(price);
   const third = Math.max(1, Math.ceil(prices.length / 3));
@@ -152,18 +152,22 @@ function priceTier(p, guideProducts) {
 // category?, categoryTitle?}. Si trae category/categoryTitle añade un enlace a
 // la guía correspondiente (se usa en el bloque de destacados fuera de guías).
 function productCard(p) {
-  return `<a class="product-card" href="${productUrl(p)}">
-        <img class="product-card-img" src="${p.img}" alt="${escapeHtml(p.title)}" loading="lazy" width="240" height="240">
-        <div class="product-card-body">
-          <p class="product-card-title">${escapeHtml(p.title)}</p>
-          ${p.note ? `<p class="product-card-note">${escapeHtml(p.note)}</p>` : ""}
-          <div class="product-card-meta">
-            ${p.rating ? `<span class="product-card-rating">${escapeHtml(p.rating)}</span>` : ""}
-            ${p.price ? `<span class="product-card-price">desde ${escapeHtml(p.price)} €</span>` : ""}
+  return `<div class="product-card">
+        <a class="product-card-main" href="${productUrl(p)}">
+          <img class="product-card-img" src="${p.img}" alt="${escapeHtml(altOf(p.title))}" loading="lazy" width="240" height="240">
+          <div class="product-card-body">
+            <p class="product-card-title">${escapeHtml(p.title)}</p>
+            ${p.note ? `<p class="product-card-note">${escapeHtml(p.note)}</p>` : ""}
+            <div class="product-card-meta">
+              ${p.rating ? `<span class="product-card-rating">${escapeHtml(p.rating)}</span>` : ""}
+            </div>
           </div>
-          <span class="btn btn-accent product-card-cta">Ver ficha y opinión ${icon("arrow")}</span>
+        </a>
+        <div class="product-card-actions">
+          <a class="btn btn-accent product-card-cta" href="${amazonProductUrl(p.asin)}" target="_blank" rel="nofollow sponsored noopener">Ver precio en Amazon ${icon("arrow")}</a>
+          <a class="product-card-ficha" href="${productUrl(p)}">Ficha y opinión</a>
         </div>
-      </a>`;
+      </div>`;
 }
 
 // Grid de productos concretos recomendados dentro de una guía. `products` es
@@ -175,8 +179,7 @@ function productGrid(products) {
   return `<div class="content-section product-section">
     <h2>Productos que cumplen estos criterios</h2>
     <p class="product-section-note">
-      Selección propia a partir de los criterios de esta guía, no un ranking pagado. Precios
-      orientativos en la fecha de esta guía: compruébalo siempre en la ficha de Amazon.
+      Selección propia a partir de los criterios de esta guía, no un ranking pagado. El precio cambia a menudo: consulta el actual en la ficha de Amazon.
     </p>
     <div class="product-grid">
       ${products.map(productCard).join("\n")}
@@ -211,7 +214,21 @@ function featuredProductsSection(featured, excludeCategory) {
   </section>`;
 }
 
+// Precio numérico: acepta "399,00", "1.299,00", "74.38" y "104".
+function priceNum(p) {
+  const s = String(p && p.price !== undefined ? p.price : p);
+  return Number(s.includes(",") ? s.replace(/./g, "").replace(",", ".") : s);
+}
+
+// Alt de imagen: nombre del producto sin la ristra de características.
+function altOf(t) {
+  const s = String(t).split(/,\s|\s\|\s?|\s[–-]\s|\s?[(\[【]/)[0].replace(/\s+/g, " ").trim();
+  return s.length <= 70 ? s : s.slice(0, 70).replace(/\s+\S*$/, "");
+}
+
 module.exports = {
+  altOf,
+  priceNum,
   icon,
   escapeHtml,
   paragraphs,

@@ -13,7 +13,7 @@ const GUIDES = [
     title: "Cómo elegir un arnés para perro",
     dek: "Antitirones, de paseo o táctico: qué mirar según el tamaño y el carácter de tu perro antes de comprar.",
     updated: "2026-09-16",
-    img: "/assets/img/guias/arneses-para-perros.jpg",
+    img: "/assets/img/guias/arneses-para-perros.webp",
     intro: [
       "Un arnés mal elegido no solo incomoda a tu perro: puede rozarle las axilas, dejarle escapar en un susto o no servir de nada si tira fuerte de la correa. Acertar depende más de la forma del arnés y del ajuste que del precio.",
       "Esta guía no recomienda un modelo concreto: te da los criterios para comparar cualquier arnés, incluidos los que encuentres en Amazon.",
@@ -193,7 +193,7 @@ const GUIDES = [
     title: "Cómo elegir una correa para perro",
     dek: "Fija, extensible o multifunción: qué formato de correa compensa según cómo paseas a tu perro.",
     updated: "2026-09-15",
-    img: "/assets/img/guias/correas-para-perros.jpg",
+    img: "/assets/img/guias/correas-para-perros.webp",
     intro: [
       "La correa parece lo más simple del equipo de paseo, pero el formato equivocado es la causa habitual de tirones al hombro, enganches con otros perros o sustos con el tráfico. El mejor formato depende del sitio donde pasees y del nivel de control que necesites, no de cuál sea \"la más resistente\".",
     ],
@@ -369,7 +369,7 @@ const GUIDES = [
     title: "Comederos automáticos para perros y gatos: guía de compra",
     dek: "Capacidad, control de raciones y limpieza: lo que de verdad marca la diferencia en un comedero automático.",
     updated: "2026-09-14",
-    img: "/assets/img/guias/comederos-automaticos-para-mascotas.jpg",
+    img: "/assets/img/guias/comederos-automaticos-para-mascotas.webp",
     intro: [
       "Un comedero automático soluciona horarios irregulares y dietas con raciones controladas, pero no todos valen para el mismo caso: un dispensador pensado para un gato solo no sirve igual para dos perros grandes con distinto apetito.",
     ],
@@ -544,7 +544,7 @@ const GUIDES = [
     title: "Fuentes de agua para perros y gatos: qué mirar antes de comprar",
     dek: "Caudal, capacidad y nivel de ruido: por qué muchas mascotas beben más con una fuente que con un bol.",
     updated: "2026-09-13",
-    img: "/assets/img/guias/fuentes-de-agua-para-mascotas.jpg",
+    img: "/assets/img/guias/fuentes-de-agua-para-mascotas.webp",
     intro: [
       "Muchos gatos beben menos de lo que deberían porque el agua quieta de un bol no les atrae tanto como el agua en movimiento: una fuente puede ser la diferencia entre una mascota bien hidratada y una con riesgo de problemas urinarios. Pero no todas las fuentes sirven igual para todos los casos.",
     ],
@@ -719,7 +719,7 @@ const GUIDES = [
     title: "Cómo elegir una cama para perro",
     dek: "Ortopédica, acolchada o de tela: qué tener en cuenta según la edad, el tamaño y el sitio donde duerme tu perro.",
     updated: "2026-09-12",
-    img: "/assets/img/guias/camas-para-perros.jpg",
+    img: "/assets/img/guias/camas-para-perros.webp",
     intro: [
       "Un perro adulto puede pasar más de la mitad del día durmiendo o descansando, así que la cama que elijas influye tanto en su bienestar como un buen pienso. El error más común es guiarse solo por el tamaño y olvidar el tipo de soporte que necesita según la edad y las articulaciones.",
     ],
@@ -894,7 +894,7 @@ const GUIDES = [
     title: "Transportines para perros y gatos: cómo elegir el adecuado",
     dek: "Rígido, blando o mochila: qué transportín necesitas según el medio de transporte y el tamaño de tu mascota.",
     updated: "2026-09-11",
-    img: "/assets/img/guias/transportines-para-mascotas.jpg",
+    img: "/assets/img/guias/transportines-para-mascotas.webp",
     intro: [
       "Un transportín no es solo para el veterinario: viajar en coche, tren o avión con normas de seguridad exige un tipo concreto, y no todos los modelos sirven para todos los medios de transporte. Elegir mal significa descubrirlo el día del viaje, cuando ya no hay margen para cambiarlo.",
     ],
@@ -1070,7 +1070,7 @@ const GUIDES = [
     title: "Areneros autolimpiables para gatos: qué mirar antes de comprar",
     dek: "Capacidad, sensores de seguridad y control por app: si un arenero autolimpiable compensa el precio en tu caso.",
     updated: "2026-09-10",
-    img: "/assets/img/guias/areneros-autolimpiables-para-gatos.jpg",
+    img: "/assets/img/guias/areneros-autolimpiables-para-gatos.webp",
     intro: [
       "Un arenero autolimpiable puede ahorrar la tarea diaria de recoger arena, pero es una de las compras más caras de esta lista y no siempre compensa: depende del número de gatos, del tipo de arena que usan y de cuánto valores automatizar esa tarea.",
     ],
@@ -1245,7 +1245,7 @@ const GUIDES = [
     title: "Cómo elegir un rascador o árbol para gatos",
     dek: "Postes, plataformas y altura: qué necesita tu gato para no acabar rascando el sofá.",
     updated: "2026-09-09",
-    img: "/assets/img/guias/rascadores-para-gatos.jpg",
+    img: "/assets/img/guias/rascadores-para-gatos.webp",
     intro: [
       "Rascar es una necesidad física del gato (marcar territorio y mantener las uñas), no un capricho: si no tiene un rascador que le convenza, el sofá o la esquina de un mueble hará ese papel. La clave está en la altura, la estabilidad y el material del poste, no solo en el tamaño del mueble.",
     ],
@@ -1420,7 +1420,7 @@ const GUIDES = [
     title: "Juguetes interactivos para perros: cómo elegir sin acertar a ciegas",
     dek: "Dispensadores de comida, puzzles de olfato y juguetes de rellenar: qué tipo cansa mentalmente a tu perro de verdad.",
     updated: "2026-09-08",
-    img: "/assets/img/guias/juguetes-interactivos-para-perros.jpg",
+    img: "/assets/img/guias/juguetes-interactivos-para-perros.webp",
     intro: [
       "El cansancio mental agota tanto o más que el físico, y un perro que se aburre en casa es un perro con más probabilidades de desarrollar conductas destructivas. Los juguetes interactivos cubren esa necesidad, pero el tipo correcto depende del nivel de dificultad que tu perro ya domine, no de cuál parece más vistoso en la caja.",
     ],
@@ -1596,7 +1596,7 @@ const GUIDES = [
     title: "Collares GPS para perros y gatos: qué mirar antes de comprar",
     dek: "Cobertura, autonomía de batería y suscripción: cómo elegir un localizador que funcione cuando de verdad lo necesitas.",
     updated: "2026-09-07",
-    img: "/assets/img/guias/collares-gps-para-mascotas.jpg",
+    img: "/assets/img/guias/collares-gps-para-mascotas.webp",
     intro: [
       "Un collar GPS solo sirve si funciona en el peor momento posible: cuando la mascota ya se ha escapado. Antes de comprar conviene mirar más allá del precio inicial, porque la cobertura real y el coste de mantenimiento varían mucho entre modelos.",
     ],
@@ -1774,7 +1774,7 @@ const ARTICLES = [
     title: "Cómo montar el rincón perfecto para tu mascota en casa",
     dek: "Cama, agua, zona de juego: el orden lógico para organizar un espacio propio para tu perro o gato.",
     updated: "2026-09-16",
-    img: "/assets/img/blog/como-montar-el-rincon-perfecto-para-tu-mascota-en-casa.jpg",
+    img: "/assets/img/blog/como-montar-el-rincon-perfecto-para-tu-mascota-en-casa.webp",
     body: [
       "Montar un rincón fijo para la mascota ayuda a que asocie ese espacio con calma y descanso, algo especialmente útil en cachorros y gatitos recién llegados a casa, pero también en mascotas adultas que cambian de vivienda.",
       "El orden que mejor funciona suele ser: primero <a href=\"/guias/camas-para-perros.html\">la cama</a>, en una zona tranquila pero no aislada del todo (los animales sociales prefieren descansar cerca de donde está la familia, no en una habitación cerrada); después el agua, en un punto distinto de la comida para fomentar que beban más; y por último la zona de juego o rascado, que puede estar en otro punto de la casa sin problema.",
@@ -1788,7 +1788,7 @@ const ARTICLES = [
     title: "5 errores comunes al elegir arnés o correa",
     dek: "Fallos fáciles de evitar que hacen que el arnés o la correa acaben sin usarse o, peor, sean inseguros.",
     updated: "2026-09-14",
-    img: "/assets/img/blog/5-errores-comunes-al-elegir-arnes-o-correa.jpg",
+    img: "/assets/img/blog/5-errores-comunes-al-elegir-arnes-o-correa.webp",
     body: [
       "Antes de comprar otro arnés o correa, merece la pena revisar si el problema real está en alguno de estos errores habituales, todos evitables sin gastar más dinero.",
       "1. Guiarse solo por el peso del perro para elegir talla. Dos perros del mismo peso pueden tener contornos de pecho muy distintos según la raza: medir antes de comprar evita casi todos los problemas de ajuste.",
@@ -1803,7 +1803,7 @@ const ARTICLES = [
     title: "Cuánto gastar en accesorios para tu mascota: presupuesto recomendado (2026)",
     dek: "Dónde está el salto de calidad real y dónde el precio ya no compra mucho más.",
     updated: "2026-09-12",
-    img: "/assets/img/blog/cuanto-merece-la-pena-gastar-en-accesorios-para-tu-mascota.jpg",
+    img: "/assets/img/blog/cuanto-merece-la-pena-gastar-en-accesorios-para-tu-mascota.webp",
     body: [
       "No existe una cifra válida para todo el mundo, pero sí hay tramos de precio donde el salto de calidad es claro y tramos donde ya no se nota tanto, y varían según el tipo de accesorio.",
       "El primer salto importante suele estar entre lo más barato y la gama media: en arneses y <a href=\"/guias/correas-para-perros.html\">correas</a>, ese tramo marca la diferencia entre materiales que se degradan en meses y otros que aguantan años de paseos diarios. En camas, ese salto está en si llevan o no espuma de mayor densidad, algo que se nota especialmente en perros mayores o pesados.",
@@ -1817,7 +1817,7 @@ const ARTICLES = [
     title: "Cómo preparar a tu mascota para viajar en coche o avión",
     dek: "Los pasos previos que reducen el estrés del viaje, además de elegir bien el transportín.",
     updated: "2026-09-10",
-    img: "/assets/img/blog/como-preparar-a-tu-mascota-para-viajar-en-coche-o-avion.jpg",
+    img: "/assets/img/blog/como-preparar-a-tu-mascota-para-viajar-en-coche-o-avion.webp",
     body: [
       "Viajar con una mascota sale mejor cuando la preparación empieza antes del día del viaje, no cuando ya estás metiendo las maletas en el coche o haciendo la maleta para el aeropuerto.",
       "Para el coche, acostumbrar al perro o gato al <a href=\"/guias/transportines-para-mascotas.html\">transportín</a> en casa, con la puerta abierta y premios dentro, evita que la primera vez que lo vea sea también la primera vez que viaja en él. Trayectos cortos de práctica (una vuelta a la manzana) ayudan a detectar si se marea antes de un viaje largo.",
@@ -1831,7 +1831,7 @@ const ARTICLES = [
     title: "Qué necesita realmente un gatito o cachorro el primer mes",
     dek: "La lista mínima de verdad, sin comprar de más antes de conocer las costumbres de tu nueva mascota.",
     updated: "2026-09-07",
-    img: "/assets/img/blog/que-necesita-realmente-un-gatito-o-cachorro-el-primer-mes.jpg",
+    img: "/assets/img/blog/que-necesita-realmente-un-gatito-o-cachorro-el-primer-mes.webp",
     body: [
       "El primer mes con un gatito o un cachorro genera la tentación de comprar todo el catálogo de accesorios de golpe, pero la mayoría de necesidades reales del primer mes son pocas y concretas.",
       "Lo imprescindible desde el primer día: una cama o zona de descanso propia, comederos de comida y agua, y en el caso del gatito, un arenero (mejor de bordes bajos al principio, para que le resulte fácil entrar y salir). En el cachorro, collar con chapa identificativa y, en cuanto complete la pauta de vacunación que indique el veterinario, <a href=\"/guias/arneses-para-perros.html\">un arnés</a> para las primeras salidas.",
@@ -1845,7 +1845,7 @@ const ARTICLES = [
     title: "Cómo elegir el arnés adecuado para un perro que tira de la correa",
     dek: "El arnés correcto no sustituye la educación en la correa, pero reduce buena parte del tirón mientras se trabaja.",
     updated: "2026-09-19",
-    img: "/assets/img/blog/como-elegir-arnes-para-perro-que-tira-de-la-correa.jpg",
+    img: "/assets/img/blog/como-elegir-arnes-para-perro-que-tira-de-la-correa.webp",
     body: [
       "Casi todos los dueños de un perro que tira de la correa han pasado por lo mismo: el brazo cansado, el hombro resentido y la sensación de que el paseo lo lleva el perro y no al revés. Antes de pensar en clases de adiestramiento, merece la pena revisar si el equipo que usas está ayudando o, sin querer, empeorando el problema.",
       `El punto de partida es el propio arnés. Un <a href='/guias/arneses-para-perros.html'>arnés con la anilla de enganche en el pecho</a> aprovecha la propia fuerza del tirón para girar el cuerpo del perro hacia ti, en lugar de dejarle avanzar en línea recta. No frena físicamente al perro ni le hace daño, pero cambia la mecánica del tirón lo suficiente como para notarse desde el primer paseo.`,
@@ -1859,7 +1859,7 @@ const ARTICLES = [
     title: "Arenero autolimpiable para gatos: ventajas reales y cuándo no compensa",
     dek: "Ahorra tiempo y reduce olores, pero no es la mejor opción para cualquier gato ni para cualquier casa.",
     updated: "2026-09-19",
-    img: "/assets/img/blog/arenero-autolimpiable-para-gatos-ventajas-y-cuando-no-compensa.jpg",
+    img: "/assets/img/blog/arenero-autolimpiable-para-gatos-ventajas-y-cuando-no-compensa.webp",
     body: [
       "Un arenero autolimpiable promete lo mismo en todos los anuncios: olvidarte de recoger las heces a mano y reducir el olor en casa. Es cierto en gran parte, pero el salto de un arenero manual a uno automático no es igual de acertado para todos los gatos ni para todas las casas.",
       `La ventaja más clara aparece en casas con más de un gato o con poco tiempo disponible para limpiar varias veces al día. Un <a href='/guias/areneros-autolimpiables-para-gatos.html'>arenero autolimpiable</a> con sensor de peso separa los residuos poco después de que el gato lo use, así que la arena se mantiene limpia con mucha menos intervención manual que un arenero tradicional.`,
@@ -1873,7 +1873,7 @@ const ARTICLES = [
     title: "Collar GPS para mascotas: qué esperar realmente de la cobertura",
     dek: "Antes de comprar uno, conviene entender sus límites de señal, batería y cuota mensual.",
     updated: "2026-09-18",
-    img: "/assets/img/blog/collar-gps-para-mascotas-que-esperar-de-la-cobertura.jpg",
+    img: "/assets/img/blog/collar-gps-para-mascotas-que-esperar-de-la-cobertura.webp",
     body: [
       "La idea de un collar GPS es tranquilizadora: saber en todo momento dónde está tu perro o tu gato si se escapa o se pierde. Funciona, pero con matices que la publicidad no siempre deja claros, y conocerlos evita decepciones después de la compra.",
       `La cobertura depende de la red móvil, no solo del dispositivo. Un <a href='/guias/collares-gps-para-mascotas.html'>collar GPS</a> necesita señal de datos para enviar la ubicación al móvil del dueño, así que en zonas rurales, montaña o interiores con mala cobertura la localización puede tardar más en actualizarse o directamente fallar durante un rato, algo especialmente importante si tu mascota suele moverse por ese tipo de entornos.`,
@@ -1887,7 +1887,7 @@ const ARTICLES = [
     title: "Cómo transportar a tu mascota en coche de forma segura",
     dek: "Un viaje corto al parque tiene los mismos riesgos que uno largo si la mascota va suelta por el coche.",
     updated: "2026-09-18",
-    img: "/assets/img/blog/como-transportar-a-tu-mascota-en-coche-de-forma-segura.jpg",
+    img: "/assets/img/blog/como-transportar-a-tu-mascota-en-coche-de-forma-segura.webp",
     body: [
       "Muchos dueños solo piensan en cómo transportar a su mascota cuando toca un viaje largo, pero un frenazo brusco en un trayecto corto al parque puede ser igual de peligroso para un perro o gato que viaja suelto por el coche, tanto para él como para el resto de ocupantes.",
       `La opción más segura para trayectos habituales en coche es un <a href='/guias/transportines-para-mascotas.html'>transportín rígido</a> bien sujeto, con espacio suficiente para que la mascota pueda girarse, tumbarse y ponerse de pie sin agacharse. Para perros grandes que no caben cómodamente en un transportín, una rejilla separadora en el maletero o un arnés específico de coche homologado, enganchado al cinturón de seguridad, cumple una función parecida.`,
@@ -1901,7 +1901,7 @@ const ARTICLES = [
     title: "Comederos automáticos: cómo evitar que tu mascota coma demasiado rápido",
     dek: "Comer con ansia no es solo un mal hábito: puede acabar en vómitos o molestias digestivas si no se corrige.",
     updated: "2026-09-17",
-    img: "/assets/img/blog/comederos-automaticos-como-evitar-que-coma-demasiado-rapido.jpg",
+    img: "/assets/img/blog/comederos-automaticos-como-evitar-que-coma-demasiado-rapido.webp",
     body: [
       "Un perro o gato que engulle la comida en segundos no solo deja el comedero vacío enseguida: comer demasiado rápido puede provocar vómitos poco después de comer, hinchazón abdominal o molestias digestivas, y en perros de razas grandes se ha relacionado con un mayor riesgo de problemas gástricos serios, así que no conviene tratarlo como una simple curiosidad.",
       `Los <a href='/guias/comederos-automaticos-para-mascotas.html'>comederos automáticos</a> pueden ayudar bastante en este punto, pero no por el hecho de ser automáticos en sí, sino por permitir programar más comidas de menor cantidad a lo largo del día en lugar de una o dos raciones grandes. Repartir la misma cantidad total de comida en más tomas reduce la ansiedad con la que el animal se lanza a comer.`,
@@ -1915,7 +1915,7 @@ const ARTICLES = [
     title: "Por qué tu gato sigue arañando el sofá aunque tenga rascador",
     dek: "Tener un rascador en casa no basta si no está en el sitio adecuado o no es del tipo que a tu gato le gusta.",
     updated: "2026-09-17",
-    img: "/assets/img/blog/por-que-tu-gato-sigue-aranando-el-sofa-aunque-tenga-rascador.jpg",
+    img: "/assets/img/blog/por-que-tu-gato-sigue-aranando-el-sofa-aunque-tenga-rascador.webp",
     body: [
       "Comprar un rascador y ver que el gato sigue afilándose las uñas en el sofá es una de las frustraciones más comunes entre dueños de gatos. Arañar es un comportamiento natural que marca territorio y mantiene las uñas en buen estado, así que el objetivo nunca es eliminarlo, sino redirigirlo a un sitio adecuado.",
       `El primer motivo habitual es la ubicación. Colocar el <a href='/guias/rascadores-para-gatos.html'>rascador</a> en un rincón apartado, lejos de donde el gato pasa tiempo, hace que lo ignore: los gatos suelen arañar cerca de las zonas donde duermen o descansan, así que un rascador junto al sofá o cerca de su cama tiene muchas más posibilidades de usarse que uno escondido en otra habitación.`,
@@ -1929,7 +1929,7 @@ const ARTICLES = [
     title: "Juguetes interactivos para perros: cómo elegir sin que acaben cogiendo polvo",
     dek: "El juguete más caro no siempre es el que más entretiene: depende del carácter y del instinto de cada perro.",
     updated: "2026-09-16",
-    img: "/assets/img/blog/juguetes-interactivos-para-perros-como-elegir-sin-fallar.jpg",
+    img: "/assets/img/blog/juguetes-interactivos-para-perros-como-elegir-sin-fallar.webp",
     body: [
       "Es habitual comprar un juguete interactivo con muchas expectativas y que acabe abandonado en un rincón a la semana. No suele ser porque el juguete sea malo, sino porque no encaja con lo que realmente motiva a ese perro en concreto.",
       `Antes de elegir un <a href='/guias/juguetes-interactivos-para-perros.html'>juguete interactivo</a>, merece la pena pensar en qué instinto quieres estimular: perros con mucho olfato disfrutan más de juguetes dispensadores de premios que obligan a buscar y manipular, mientras que perros con más impulso de persecución responden mejor a juguetes que se mueven o ruedan por sí solos.`,
@@ -1943,7 +1943,7 @@ const ARTICLES = [
     title: "Cuánta agua debe beber tu perro o gato, y cómo animarle a beber más",
     dek: "Los gatos en particular tienden a beber menos de lo recomendable, y eso tiene consecuencias a largo plazo.",
     updated: "2026-09-16",
-    img: "/assets/img/blog/cuanta-agua-debe-beber-tu-perro-o-gato.jpg",
+    img: "/assets/img/blog/cuanta-agua-debe-beber-tu-perro-o-gato.webp",
     body: [
       "La cantidad de agua que necesita un perro o gato varía según su peso, la actividad física, la temperatura ambiente y si su alimentación es seca o húmeda, así que no existe una cifra única válida para todos los casos; el veterinario es quien mejor puede orientar sobre lo que es normal para tu mascota en concreto.",
       "Lo que sí está bastante extendido es que los gatos, por su origen como animales adaptados a climas áridos, tienden a beber menos de lo que sería ideal si su dieta es solo pienso seco. Con el tiempo, una hidratación insuficiente se ha relacionado con más riesgo de problemas urinarios y renales, motivo por el que muchos veterinarios recomiendan vigilar de cerca el consumo de agua en gatos, especialmente a partir de cierta edad.",
@@ -1957,7 +1957,7 @@ const ARTICLES = [
     title: "Cómo preparar a tu mascota para una mudanza sin que se estrese demasiado",
     dek: "Cambiar de casa es una de las situaciones que más ansiedad genera en perros y gatos si no se gestiona bien.",
     updated: "2026-09-15",
-    img: "/assets/img/blog/como-preparar-a-tu-mascota-para-una-mudanza.jpg",
+    img: "/assets/img/blog/como-preparar-a-tu-mascota-para-una-mudanza.webp",
     body: [
       "Una mudanza altera de golpe todos los puntos de referencia de una mascota: los olores, la disposición de los muebles y las rutinas diarias cambian a la vez, y eso puede generar más estrés del que parece a simple vista, sobre todo en gatos, más apegados al territorio que los perros.",
       `Antes del día de la mudanza, mantener los objetos con el olor habitual de la mascota (su <a href='/guias/camas-para-perros.html'>cama</a>, una manta, juguetes ya usados) sin lavar durante esos días ayuda a que reconozca algo familiar en medio del caos de cajas y cambios. No es el mejor momento para estrenar accesorios nuevos: mejor esperar a que la mascota se haya asentado en la casa nueva.`,
@@ -1971,7 +1971,7 @@ const ARTICLES = [
     title: "Correa fija o extensible: cuál usar según cada tipo de salida",
     dek: "No hace falta elegir una sola correa para siempre: lo lógico es adaptarla al sitio donde vayas a pasear.",
     updated: "2026-09-15",
-    img: "/assets/img/blog/correa-fija-o-extensible-segun-cada-salida.jpg",
+    img: "/assets/img/blog/correa-fija-o-extensible-segun-cada-salida.webp",
     body: [
       "Una duda habitual al comprar la primera correa es si conviene una fija o una extensible, como si tuviera que ser una elección definitiva. En la práctica, muchos dueños acaban con las dos, y las alternan según el tipo de salida que vayan a hacer ese día.",
       `Para paseos por la ciudad, cerca de tráfico, cruces o aceras estrechas con gente, una <a href='/guias/correas-para-perros.html'>correa fija de 1,2 a 2 metros</a> da un control mucho más inmediato: la distancia entre tú y el perro no cambia de golpe, así que puedes reaccionar antes ante un coche, una bicicleta u otro perro que se acerque.`,
@@ -1985,7 +1985,7 @@ const ARTICLES = [
     title: "Mejor cama para perro grande: cómo elegirla en 2026",
     dek: "Medidas, relleno, funda lavable y errores típicos al comprar una cama para un perro grande. Criterios claros para acertar a la primera.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/mejor-cama-para-perro-grande-como-elegir.jpg",
+    img: "/assets/img/blog/mejor-cama-para-perro-grande-como-elegir.webp",
     body: [
       "Buscar la mejor cama para un perro grande parece sencillo hasta que llega el paquete: o es demasiado justa y el perro duerme con medio cuerpo fuera, o el relleno se aplasta en dos semanas y acaba tumbado en el suelo. En razas grandes, la cama no es un simple capricho decorativo: es donde pasa buena parte del día, y de ella dependen su descanso y el estado de tus muebles.",
       "En esta guía de compra repasamos qué mirar, en qué orden y qué errores evitar. No hay una cama perfecta para todos los perros; hay una cama adecuada para tu perro, tu casa y tu presupuesto. Si quieres comparar modelos concretos, tienes nuestra <a href='/guias/camas-para-perros.html'>guía de camas para perros</a> con las opciones mejor valoradas.",
@@ -2019,7 +2019,7 @@ const ARTICLES = [
     title: "Cama ortopédica para perros: ¿merece la pena?",
     dek: "Cuándo tiene sentido pagar más por una cama ortopédica, cuándo no y cómo distinguir una buena de una que solo lo aparenta.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/cama-ortopedica-para-perros-merece-la-pena.jpg",
+    img: "/assets/img/blog/cama-ortopedica-para-perros-merece-la-pena.webp",
     body: [
       "La etiqueta \"ortopédica\" se ha popularizado tanto en las camas para perros que casi todos los modelos la llevan, y eso genera una duda razonable: ¿estás pagando por algo útil o por una palabra de marketing? La respuesta honesta es que depende de tu perro, y de que la cama cumpla unas características concretas más allá del nombre.",
       "Aquí te contamos cuándo suele compensar, cuándo no y qué comprobar para no equivocarte. Es una decisión de compra, no un consejo médico: si tu perro tiene dolor, cojea o le cuesta levantarse, la primera visita debe ser al veterinario. Para ver modelos, consulta la <a href='/guias/camas-para-perros.html'>guía de camas para perros</a>.",
@@ -2054,7 +2054,7 @@ const ARTICLES = [
     title: "Talla de arnés para perro: cómo medir y acertar",
     dek: "Qué medidas tomar, por qué la talla S, M o L no basta y cómo comprobar el ajuste del arnés para que no roce, no se escape ni apriete.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/talla-de-arnes-para-perro-como-medir.jpg",
+    img: "/assets/img/blog/talla-de-arnes-para-perro-como-medir.webp",
     body: [
       "Comprar un arnés por internet tiene una trampa: la talla S, M o L de una marca no coincide con la de otra, y los pesos orientativos de las descripciones suelen ser solo eso, orientativos. Un arnés demasiado grande se escapa o se gira; uno demasiado pequeño roza las axilas y molesta. La solución no es adivinar, sino medir bien.",
       "Aquí tienes cómo tomar las medidas, cómo interpretarlas con la tabla del fabricante y cómo comprobar el ajuste cuando ya lo tienes puesto. Si aún no tienes claro qué tipo de arnés comprar, empieza por la <a href='/guias/arneses-para-perros.html'>guía de arneses para perros</a>.",
@@ -2089,7 +2089,7 @@ const ARTICLES = [
     title: "Arnés o collar para perro: cuál elegir según tu caso",
     dek: "Arnés o collar: ventajas, inconvenientes y qué conviene según el tamaño, la edad y el comportamiento de tu perro. Sin dogmas.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/arnes-o-collar-para-perro-cual-elegir.jpg",
+    img: "/assets/img/blog/arnes-o-collar-para-perro-cual-elegir.webp",
     body: [
       "\"Arnés o collar\" es una de las preguntas más frecuentes de quien va a comprar el primer equipo para su perro, y suele recibir respuestas tajantes en ambos sentidos. La realidad es más matizada: cada opción tiene su sitio, y la mejor elección depende del perro, del tipo de paseo y de cómo se comporta con la correa.",
       "Aquí comparamos ambas opciones con criterios prácticos para que decidas con información. Si buscas modelos, tienes la <a href='/guias/arneses-para-perros.html'>guía de arneses</a> y la de <a href='/guias/correas-para-perros.html'>correas para perros</a>.",
@@ -2122,7 +2122,7 @@ const ARTICLES = [
     title: "Rascador para gatos grandes: qué mirar antes de comprar",
     dek: "Estabilidad, altura de los postes, tamaño de las plataformas y sisal: cómo elegir un rascador que aguante a un gato grande.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/mejor-rascador-para-gatos-grandes.jpg",
+    img: "/assets/img/blog/mejor-rascador-para-gatos-grandes.webp",
     body: [
       "Si tu gato es de raza grande (Maine Coon, Ragdoll, Noruego de los bosques) o simplemente es corpulento y pesado, muchos rascadores del mercado se le quedan cortos: las plataformas son pequeñas, el árbol se tambalea cuando salta y el poste se dobla al estirarse. Un rascador que el gato no usa por incomodidad es dinero tirado.",
       "Esta guía resume qué mirar para elegir un rascador adecuado a un gato grande y cómo evitar los fallos más comunes. Para comparar modelos, echa un vistazo a nuestra <a href='/guias/rascadores-para-gatos.html'>guía de rascadores para gatos</a>.",
@@ -2159,7 +2159,7 @@ const ARTICLES = [
     title: "Rascador para piso pequeño: opciones que ocupan poco",
     dek: "Postes de pared, torres estrechas y rascadores verticales: cómo dar a tu gato un buen rascador sin sacrificar espacio en casa.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/rascador-para-pisos-pequenos-que-elegir.jpg",
+    img: "/assets/img/blog/rascador-para-pisos-pequenos-que-elegir.webp",
     body: [
       "En un piso pequeño cada metro cuadrado cuenta, y un árbol rascador de esos que parecen una torre de apartamentos no siempre cabe. La buena noticia es que un gato no necesita ocupar medio salón para tener un buen sitio donde rascar y trepar: lo que necesita es altura, estabilidad y un lugar bien elegido, y eso se puede conseguir con poco espacio en planta.",
       "Te explicamos qué tipos de rascador aprovechan mejor el espacio, cómo elegir según tu vivienda y qué errores evitar. Para comparar modelos concretos, tienes la <a href='/guias/rascadores-para-gatos.html'>guía de rascadores para gatos</a>.",
@@ -2194,7 +2194,7 @@ const ARTICLES = [
     title: "Fuente de agua para gatos: cómo elegir la adecuada",
     dek: "Material, capacidad, ruido y limpieza: qué mirar al comprar una fuente de agua para tu gato y qué errores evitar para que la use.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/fuente-de-agua-para-gatos-como-elegir.jpg",
+    img: "/assets/img/blog/fuente-de-agua-para-gatos-como-elegir.webp",
     body: [
       "Muchos gatos parecen preferir el agua corriente a la de un bol quieto, y por eso las fuentes de agua se han convertido en uno de los accesorios más populares. Pero no todas valen igual: hay fuentes ruidosas, difíciles de limpiar o que el gato simplemente ignora. Elegir bien evita gastar dinero en algo que acabará guardado en un armario.",
       "Estos son los criterios que conviene valorar. Para ver modelos concretos, tienes nuestra <a href='/guias/fuentes-de-agua-para-mascotas.html'>guía de fuentes de agua para mascotas</a>. Y si te preocupa cuánto bebe tu gato, lee antes <a href='/blog/cuanta-agua-debe-beber-tu-perro-o-gato.html'>cuánta agua debe beber tu perro o gato</a> y consulta con tu veterinario ante cualquier cambio llamativo.",
@@ -2230,7 +2230,7 @@ const ARTICLES = [
     title: "Correa para cachorros: qué tipo y qué longitud elegir",
     dek: "Qué correa comprar para un cachorro: longitud, material, fija o extensible y qué evitar en las primeras salidas y el aprendizaje del paseo.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/correa-para-cachorros-tipo-y-longitud.jpg",
+    img: "/assets/img/blog/correa-para-cachorros-tipo-y-longitud.webp",
     body: [
       "Cuando llega un cachorro a casa, la primera correa parece una compra sin importancia. Pero esos primeros paseos marcan cómo va a caminar tu perro durante años, y una correa poco adecuada (demasiado larga, pesada o difícil de manejar) puede complicar el aprendizaje. Elegir bien desde el principio te ahorra frustración y una segunda compra.",
       "Te contamos qué tipo de correa suele funcionar mejor con cachorros, qué longitud y material conviene y qué errores evitar. Para comparar modelos, consulta la <a href='/guias/correas-para-perros.html'>guía de correas para perros</a>.",
@@ -2265,7 +2265,7 @@ const ARTICLES = [
     title: "Comedero automático para perros grandes: qué mirar",
     dek: "Capacidad, robustez, dispensación y seguridad antes de comprar un comedero automático para un perro grande. Criterios claros y errores a evitar.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/comedero-automatico-para-perros-grandes.jpg",
+    img: "/assets/img/blog/comedero-automatico-para-perros-grandes.webp",
     body: [
       "Los comederos automáticos se han popularizado sobre todo entre dueños de gatos, pero también pueden ser útiles para perros grandes: horarios más regulares, comidas repartidas y algo de tranquilidad cuando pasas fuera parte del día. Ahora bien, un modelo pensado para un gato no aguanta a un perro grande, que come más cantidad, es más fuerte y, a veces, más decidido a abrir el aparato.",
       "Estos son los criterios que conviene valorar antes de comprar. Puedes ver modelos en la <a href='/guias/comederos-automaticos-para-mascotas.html'>guía de comederos automáticos</a>. Y si tu perro come demasiado rápido, lee también <a href='/blog/comederos-automaticos-como-evitar-que-coma-demasiado-rapido.html'>cómo evitar que tu mascota coma demasiado rápido</a>.",
@@ -2303,7 +2303,7 @@ const ARTICLES = [
     title: "Comedero automático wifi o temporizador: cuál compensa",
     dek: "Comedero automático con wifi y app o con temporizador básico: diferencias reales, precio, fallos habituales y cuál te conviene según tu día a día.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/comedero-automatico-wifi-o-con-temporizador.jpg",
+    img: "/assets/img/blog/comedero-automatico-wifi-o-con-temporizador.webp",
     body: [
       "Al buscar un comedero automático aparece pronto la gran pregunta: ¿un modelo sencillo con temporizador o uno con wifi, app y hasta cámara? Los segundos son más caros y prometen mucho control, pero no siempre aportan algo que necesites. Tampoco los básicos son la opción perfecta para todas las situaciones. La clave está en tu rutina.",
       "Comparamos ambos enfoques con criterios prácticos. Para ver modelos de cada tipo, tienes la <a href='/guias/comederos-automaticos-para-mascotas.html'>guía de comederos automáticos</a>.",
@@ -2340,7 +2340,7 @@ const ARTICLES = [
     title: "Transportín para viajar en avión con gato: qué mirar",
     dek: "Medidas, materiales, comodidad y normas de cada aerolínea: qué comprobar antes de comprar un transportín para viajar en avión con tu gato.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/transportin-para-avion-con-gato-que-mirar.jpg",
+    img: "/assets/img/blog/transportin-para-avion-con-gato-que-mirar.webp",
     body: [
       "Viajar en avión con un gato exige más preparación que una escapada en coche. Y uno de los puntos donde más se falla es el transportín: se compra un modelo \"apto para avión\" sin comprobar realmente las condiciones de la aerolínea y, en el aeropuerto, resulta que no vale. Con un poco de antelación se evita ese disgusto.",
       "Esta guía resume qué mirar antes de comprar un transportín para volar con tu gato. No sustituye a las condiciones oficiales de cada compañía, que son las que mandan. Para comparar modelos, consulta la <a href='/guias/transportines-para-mascotas.html'>guía de transportines para mascotas</a>.",
@@ -2377,7 +2377,7 @@ const ARTICLES = [
     title: "Transportín rígido o blando: cuál elegir",
     dek: "Transportín rígido o blando para perro o gato: ventajas, límites, seguridad y cuál conviene según el uso (coche, veterinario, avión o paseo).",
     updated: "2026-09-21",
-    img: "/assets/img/blog/transportin-rigido-o-blando-cual-elegir.jpg",
+    img: "/assets/img/blog/transportin-rigido-o-blando-cual-elegir.webp",
     body: [
       "Cuando compras el primer transportín para tu mascota, la duda es casi inevitable: ¿rígido o blando? Ambos tienen partidarios, y con razón, porque cada uno es mejor en situaciones distintas. Elegir bien depende de cómo vayas a usarlo (visitas al veterinario, coche, avión, viajes en transporte público) y de cómo es tu animal.",
       "Comparamos los dos tipos de forma práctica. Si quieres ver modelos, tienes la <a href='/guias/transportines-para-mascotas.html'>guía de transportines para mascotas</a>.",
@@ -2415,7 +2415,7 @@ const ARTICLES = [
     title: "Arenero autolimpiable para gatos grandes: qué mirar",
     dek: "Tamaño del tambor, entrada, peso máximo y ruido: cómo elegir un arenero autolimpiable que acepte de verdad a un gato grande.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/arenero-autolimpiable-para-gatos-grandes.jpg",
+    img: "/assets/img/blog/arenero-autolimpiable-para-gatos-grandes.webp",
     body: [
       "Un arenero autolimpiable promete comodidad, pero si tu gato es grande el primer requisito no es la app ni el sensor: es que quepa. Un gato corpulento que entra con esfuerzo, se golpea con el techo o se siente encerrado puede acabar rechazando el arenero y eligiendo otro rincón de la casa, con las consecuencias que eso tiene.",
       "Repasamos qué mirar para elegir un arenero autolimpiable que un gato grande acepte de verdad. Para comparar modelos, consulta la <a href='/guias/areneros-autolimpiables-para-gatos.html'>guía de areneros autolimpiables</a>. Y si dudas si la inversión te compensa, lee <a href='/blog/arenero-autolimpiable-para-gatos-ventajas-y-cuando-no-compensa.html'>arenero autolimpiable: ventajas y cuándo no compensa</a>.",
@@ -2450,7 +2450,7 @@ const ARTICLES = [
     title: "Juguetes para perros que se quedan solos en casa",
     dek: "Qué juguetes ayudan a que un perro se entretenga mientras estás fuera: rellenables, puzles y alfombras olfativas. Criterios y precauciones.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/juguetes-para-perros-que-se-quedan-solos-en-casa.jpg",
+    img: "/assets/img/blog/juguetes-para-perros-que-se-quedan-solos-en-casa.webp",
     body: [
       "Dejar a un perro solo unas horas es una realidad para muchas familias, y con ella llega la pregunta de qué puede tener a mano para no aburrirse. Un juguete adecuado no sustituye tu compañía ni el ejercicio, pero puede darle algo con lo que ocuparse. Elegirlo bien es tan importante como comprarlo: un juguete mal elegido puede ser inútil, o incluso peligroso si el perro lo destroza y se traga trozos.",
       "Repasamos qué tipos de juguetes suelen funcionar mejor y cómo elegir con seguridad. Puedes ver opciones en nuestra <a href='/guias/juguetes-interactivos-para-perros.html'>guía de juguetes interactivos para perros</a>, y para criterios generales lee <a href='/blog/juguetes-interactivos-para-perros-como-elegir-sin-fallar.html'>juguetes interactivos para perros: cómo elegir sin fallar</a>.",
@@ -2485,7 +2485,7 @@ const ARTICLES = [
     title: "Collar GPS para perros: con o sin suscripción",
     dek: "Collar GPS con cuota o sin suscripción: qué diferencias hay, cómo comparar el coste real y qué tener en cuenta antes de elegir.",
     updated: "2026-09-21",
-    img: "/assets/img/blog/collar-gps-para-perros-con-o-sin-suscripcion.jpg",
+    img: "/assets/img/blog/collar-gps-para-perros-con-o-sin-suscripcion.webp",
     body: [
       "Cuando empiezas a comparar collares GPS para perros, aparece una diferencia que condiciona el precio final: unos funcionan con una cuota mensual o anual y otros se anuncian \"sin suscripción\". La diferencia no siempre es la que parece, y quedarse con el precio de la etiqueta puede llevar a confusión. Lo que importa es el coste total durante el tiempo que vayas a usar el collar y lo que obtienes a cambio.",
       "Te explicamos cómo comparar y qué preguntas hacerte. Para ver modelos, consulta la <a href='/guias/collares-gps-para-mascotas.html'>guía de collares GPS para mascotas</a>, y si quieres entender cómo funciona la cobertura, lee <a href='/blog/collar-gps-para-mascotas-que-esperar-de-la-cobertura.html'>collar GPS para mascotas: qué esperar de la cobertura</a>.",
