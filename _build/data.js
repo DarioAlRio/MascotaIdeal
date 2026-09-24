@@ -2538,4 +2538,12 @@ const FEATURED = [
   pickFeatured("collares-gps-para-mascotas", "B0HCZD8VSX"),
 ];
 
+// Ampliación (ver extra.js): productos top nuevos y artículos de blog.
+const EXTRA = require("./extra");
+for (const g of GUIDES) g.products.push(...(EXTRA.products[g.slug] || []));
+for (const a of EXTRA.articles) {
+  const g = GUIDES.find((x) => x.slug === a.guide);
+  ARTICLES.push({ ...a, img: a.img || (g && g.img) });
+}
+
 module.exports = { GUIDES, ARTICLES, FEATURED };
