@@ -26,11 +26,6 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/arenero-gatos-autolimpiable-xxl-vs-devoko-arenero-gatos-autolimpiable-90l.html",
-      "destination": "/guias/areneros-autolimpiables-para-gatos.html",
-      "permanent": true
-    },
-    {
       "source": "/comparativas/arenero-gatos-autolimpiable-xxl-vs-feelneedy-arenero-autolimpiable-65l.html",
       "destination": "/guias/areneros-autolimpiables-para-gatos.html",
       "permanent": true
@@ -41,18 +36,8 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/arenero-gatos-autolimpiable-xxl-vs-petkit-purobot-max-3-arenero-autolimpiab.html",
-      "destination": "/guias/areneros-autolimpiables-para-gatos.html",
-      "permanent": true
-    },
-    {
-      "source": "/comparativas/arenero-gatos-autolimpiable-xxl-vs-ubpet-xxxl-arenero-autolimpiable-106l.html",
-      "destination": "/guias/areneros-autolimpiables-para-gatos.html",
-      "permanent": true
-    },
-    {
-      "source": "/comparativas/areneros-autolimpiables-para-gatos-petkit-vs-devoko.html",
-      "destination": "/mejores/areneros-autolimpiables-para-gatos.html",
+      "source": "/comparativas/arnes-perro-grande-mediano-vs-onetigris-arnes-de-apoyo-invictus.html",
+      "destination": "/guias/arneses-para-perros.html",
       "permanent": true
     },
     {
@@ -67,6 +52,16 @@
     },
     {
       "source": "/comparativas/brevanza-cama-perro-comodo-y-calida-vs-ksiia-cama-ortopedica-para-perros-grande.html",
+      "destination": "/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/brevanza-cama-perro-comodo-y-calida-vs-wavve-cama-extra-grande-ortopedica.html",
+      "destination": "/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/brevanza-cama-perro-comodo-y-calida-vs-yagu-cama-para-perros-y-gatos-t-1.html",
       "destination": "/guias/camas-para-perros.html",
       "permanent": true
     },
@@ -126,13 +121,38 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-imipaw-comedero-gato-automatico.html",
+      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-comedero-automatico-para-razas-grandes.html",
+      "destination": "/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-edipets-dispensador-automatico-comida.html",
+      "destination": "/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-petkit-comedero-automatico-con-camara.html",
       "destination": "/guias/comederos-automaticos-para-mascotas.html",
       "permanent": true
     },
     {
       "source": "/comparativas/correa-de-control-para-perros-halti-vs-flexi-classic-l-cinta-8m.html",
       "destination": "/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/correa-de-perro-vs-tspro-correa-ajustable-manos-libres.html",
+      "destination": "/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/correas-para-perros-flexi-vs-edipets.html",
+      "destination": "/mejores/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/correas-para-perros-taglory-vs-edipets.html",
+      "destination": "/mejores/correas-para-perros.html",
       "permanent": true
     },
     {
@@ -226,7 +246,22 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/fuente-de-agua-2-vs-feelneedy-8l-fuente-para-gatos-sin-cable.html",
+      "destination": "/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/fuente-de-agua-2-vs-fuente-acero-inoxidable-estilo-grifo.html",
+      "destination": "/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-fuente-automatica-2.html",
+      "destination": "/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-fuente-para-gatos-sin-cable-bebedero.html",
       "destination": "/guias/fuentes-de-agua-para-mascotas.html",
       "permanent": true
     },
@@ -237,6 +272,11 @@
     },
     {
       "source": "/comparativas/fuente-de-agua-2-vs-petkit-eversweet-fuente-acero-inoxidable.html",
+      "destination": "/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-para-gatos-sin-cable-bebedero-vs-feelneedy-8l-fuente-para-gatos-sin-cable.html",
       "destination": "/guias/fuentes-de-agua-para-mascotas.html",
       "permanent": true
     },
@@ -258,6 +298,21 @@
     {
       "source": "/comparativas/fukumaru-transportin-bolsa-transpirable-vs-morpilot-transportin-blando-transpirable.html",
       "destination": "/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gitelsnour-arbol-rascador-para-gatitos-vs-amazon-basics-arbol-para-gatos-de-interi.html",
+      "destination": "/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gitelsnour-arbol-rascador-para-gatitos-vs-amazon-basics-torre-multinivel-para-gato.html",
+      "destination": "/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gitelsnour-arbol-rascador-para-gatitos-vs-amazon-basics-torre-para-gatos-con-hamac.html",
+      "destination": "/guias/rascadores-para-gatos.html",
       "permanent": true
     },
     {
@@ -336,16 +391,6 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/imipaw-comedero-gato-automatico-vs-comedero-automatico-para-razas-grandes.html",
-      "destination": "/guias/comederos-automaticos-para-mascotas.html",
-      "permanent": true
-    },
-    {
-      "source": "/comparativas/imipaw-comedero-gato-automatico-vs-edipets-dispensador-automatico-comida.html",
-      "destination": "/guias/comederos-automaticos-para-mascotas.html",
-      "permanent": true
-    },
-    {
       "source": "/comparativas/imipaw-comedero-gato-automatico-vs-petkit-comedero-automatico-con-camara.html",
       "destination": "/guias/comederos-automaticos-para-mascotas.html",
       "permanent": true
@@ -371,12 +416,12 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/juguetes-interactivos-para-perros-kong-vs-nobleza.html",
+      "source": "/comparativas/juguetes-interactivos-para-perros-kong-vs-trixie.html",
       "destination": "/mejores/juguetes-interactivos-para-perros.html",
       "permanent": true
     },
     {
-      "source": "/comparativas/juguetes-interactivos-para-perros-nina-vs-nobleza.html",
+      "source": "/comparativas/juguetes-interactivos-para-perros-nina-vs-trixie.html",
       "destination": "/mejores/juguetes-interactivos-para-perros.html",
       "permanent": true
     },
@@ -436,12 +481,27 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-juguete-interactivo-perro-juguete-perro.html",
+      "destination": "/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-kong-classic-juguete-rellenable.html",
+      "destination": "/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-nina-ottosson-dog-brick-puzzle-interacti.html",
       "destination": "/guias/juguetes-interactivos-para-perros.html",
       "permanent": true
     },
     {
       "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-nobleza.html",
+      "destination": "/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-trixie-dog-activity-turn-around.html",
       "destination": "/guias/juguetes-interactivos-para-perros.html",
       "permanent": true
     },
@@ -471,13 +531,18 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/onetigris-arnes-de-apoyo-invictus-vs-julius-k9-arnes-idc.html",
+      "destination": "/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/onetigris-arnes-de-apoyo-invictus-vs-rabbitgoo-arnes-perro-pequeno.html",
       "destination": "/guias/arneses-para-perros.html",
       "permanent": true
     },
     {
-      "source": "/comparativas/ortopedica-cama-perros-vs-brevanza-cama-perro-comodo-y-calida.html",
-      "destination": "/guias/camas-para-perros.html",
+      "source": "/comparativas/onetigris-arnes-de-apoyo-invictus-vs-trixie-arnes-premium-para-perros.html",
+      "destination": "/guias/arneses-para-perros.html",
       "permanent": true
     },
     {
@@ -531,7 +596,17 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/petkit-purobot-max-3-arenero-autolimpiab-vs-feelneedy-arenero-autolimpiable-65l.html",
+      "destination": "/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/petkit-purobot-max-3-arenero-autolimpiab-vs-petkit-pura-max-2-arenero-autolimpiable.html",
+      "destination": "/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-purobot-max-3-arenero-autolimpiab-vs-ubpet-xxxl-arenero-autolimpiable-106l.html",
       "destination": "/guias/areneros-autolimpiables-para-gatos.html",
       "permanent": true
     },
@@ -546,27 +621,22 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/rabbitgoo-arnes-perro-grande-vs-julius-k9-arnes-idc.html",
-      "destination": "/guias/arneses-para-perros.html",
-      "permanent": true
-    },
-    {
-      "source": "/comparativas/rabbitgoo-arnes-perro-grande-vs-onetigris-arnes-de-apoyo-invictus.html",
-      "destination": "/guias/arneses-para-perros.html",
-      "permanent": true
-    },
-    {
       "source": "/comparativas/rabbitgoo-arnes-perro-grande-vs-rabbitgoo-arnes-perro-pequeno.html",
       "destination": "/guias/arneses-para-perros.html",
       "permanent": true
     },
     {
-      "source": "/comparativas/rabbitgoo-arnes-perro-grande-vs-trixie-arnes-premium-para-perros.html",
-      "destination": "/guias/arneses-para-perros.html",
+      "source": "/comparativas/rascadores-para-gatos-amazon-vs-feandrea.html",
+      "destination": "/mejores/rascadores-para-gatos.html",
       "permanent": true
     },
     {
-      "source": "/comparativas/rascadores-para-gatos-heybly-vs-amazon.html",
+      "source": "/comparativas/rascadores-para-gatos-amazon-vs-yaheetech.html",
+      "destination": "/mejores/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rascadores-para-gatos-feandrea-vs-yaheetech.html",
       "destination": "/mejores/rascadores-para-gatos.html",
       "permanent": true
     },
@@ -581,7 +651,17 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-edipets-correa-extensible-retractil-5m.html",
+      "destination": "/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/taglory-correa-antitirones-1-vs-flexi-classic-l-cinta-8m.html",
+      "destination": "/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-flexi-classic-s-correa-retractil-de-cint.html",
       "destination": "/guias/correas-para-perros.html",
       "permanent": true
     },
@@ -591,8 +671,8 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/tractive-gps-para-perros-inteligente-vs-localizador-gps-para-gatos.html",
-      "destination": "/guias/collares-gps-para-mascotas.html",
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-rever-correa-para-perros-nailon-trenzado.html",
+      "destination": "/guias/correas-para-perros.html",
       "permanent": true
     },
     {
@@ -681,68 +761,13 @@
       "permanent": true
     },
     {
-      "source": "/mejores/areneros-autolimpiables-para-gatos-menos-de-200-euros.html",
-      "destination": "/mejores/areneros-autolimpiables-para-gatos.html",
-      "permanent": true
-    },
-    {
       "source": "/mejores/camas-para-perros-perros-grandes.html",
       "destination": "/mejores/camas-para-perros.html",
       "permanent": true
     },
     {
-      "source": "/mejores/rascadores-para-gatos-marca-heybly.html",
-      "destination": "/mejores/rascadores-para-gatos.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/aomig-correa-perro-5-8m-retractil-antideslizante-b0dyjqt6t2.html",
-      "destination": "/guias/correas-para-perros.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/arenero-gatos-autolimpiable-xxl-caja-arena-gato-automatica-con-app-control-antifugas-atrapamiento-olores-con-sensores-de-seguridad-para-multiple-b0gxwh8msb.html",
-      "destination": "/guias/areneros-autolimpiables-para-gatos.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/devoko-arenero-gatos-autolimpiable-90l-arenero-automatico-y-app-anti-olor-b0fmrb7z2s.html",
-      "destination": "/guias/areneros-autolimpiables-para-gatos.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/heybly-arbol-para-gatos-de-115-cm-torre-para-gatos-con-plataforma-grande-cesta-colgante-y-cueva-postes-rascadores-de-sisal-pelotas-colgantes-y-coj-b0g13ttb4g.html",
-      "destination": "/guias/rascadores-para-gatos.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/heybly-rascador-para-gatos-el-cepillo-de-autolimpieza-el-arbol-para-gatos-domesticos-con-peluche-liso-silla-de-descanso-nido-de-gato-con-panel-y-b0dzchxd96.html",
-      "destination": "/guias/rascadores-para-gatos.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/imipaw-comedero-gato-automatico-1-6-comidas-al-dia-con-temporizador-b0dxvh99q6.html",
-      "destination": "/guias/comederos-automaticos-para-mascotas.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/localizador-gps-para-gatos-y-perros-collar-gps-compatible-con-ios-y-android-b0hdhds35p.html",
-      "destination": "/guias/collares-gps-para-mascotas.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/nobleza-alfombra-olfativa-juego-de-inteligencia-para-perros-juguete-interactivos-snuffle-mat-para-perros-estera-de-alimentacion-lenta-portatil-p-b093kn1xqz.html",
-      "destination": "/guias/juguetes-interactivos-para-perros.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/ortopedica-cama-perros-medianos-impermeable-cama-de-perros-88x55x7cm-b0f66yf2hm.html",
-      "destination": "/guias/camas-para-perros.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/rabbitgoo-arnes-perro-grande-arnes-perro-antitirones-coche-con-lineas-reflecantes-chaleco-acolchado-ajustable-transpirable-con-asa-y-anillos-para-ad-b07qdw619t.html",
-      "destination": "/guias/arneses-para-perros.html",
+      "source": "/mejores/fuentes-de-agua-para-mascotas-menos-de-25-euros.html",
+      "destination": "/mejores/fuentes-de-agua-para-mascotas.html",
       "permanent": true
     },
     {
