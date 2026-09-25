@@ -6,15 +6,6 @@ module.exports = {
  "products": {
   "arneses-para-perros": [
    {
-    "asin": "B07QDW619T",
-    "title": "rabbitgoo Arnes Perro Grande, Arnes Perro Antitirones Coche con Lineas Reflecantes, Chaleco Acolchado Ajustable Transpirable con Asa y Anillos para Ad",
-    "note": "Arnes Perro Antitirones Coche con Lineas Reflecantes; Chaleco Acolchado Ajustable Transpirable con Asa y Anillos para Adiesreamiento Correr Tamaño L Color Rosa. Top ventas en Amazon.es: 4,5★ con 2562 valoraciones. 300+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/61NBWLhjrbL._AC_UL320_.jpg",
-    "price": "24,99",
-    "rating": "4,5★",
-    "reviews": 2562
-   },
-   {
     "asin": "B0C77JJLW2",
     "title": "OneTigris Arnés de Apoyo Invictus para Perros Medianos y Grandes - Arnés de Elevación y Seguridad Con 3 Asas, Correas Ajustables Desmontables y Correa",
     "note": "Arnés de Elevación y Seguridad Con 3 Asas; Correas Ajustables Desmontables y Correas Traseras. Top ventas en Amazon.es: 4,4★ con 826 valoraciones.",
@@ -22,18 +13,18 @@ module.exports = {
     "price": "73,99",
     "rating": "4,4★",
     "reviews": 826
+   },
+   {
+    "asin": "B0DQ4W59MV",
+    "title": "Arnes Perro Grande Mediano, Arnés Antitirones con Correa Incluida, Chaleco Ajustable de Nailon con Anillas Pecho y Espalda, Transpirable Reflectante p",
+    "note": "Arnés Antitirones con Correa Incluida; Chaleco Ajustable de Nailon con Anillas Pecho y Espalda. Top ventas en Amazon.es: 4,0★ con 2562 valoraciones. 300+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/71hGeZLyhCL._AC_UL320_.jpg",
+    "price": "23,99",
+    "rating": "4,0★",
+    "reviews": 2562
    }
   ],
   "correas-para-perros": [
-   {
-    "asin": "B0DYJQT6T2",
-    "title": "Aomig Correa Perro, 5-8m Retráctil, Antideslizante",
-    "note": "5-8m Retráctil; Antideslizante. Top ventas en Amazon.es: 4,2★ con 239 valoraciones.",
-    "img": "https://m.media-amazon.com/images/I/51SfEsPPC0L._AC_UL320_.jpg",
-    "price": "14,53",
-    "rating": "4,2★",
-    "reviews": 239
-   },
    {
     "asin": "B0B4SQJ6M7",
     "title": "Correa de Perro, Correas Nylon con Mango Acolchado Suave y Hilos Reflectantes, para Perros Cachorro y Perros Pequeños Adecuado para Correr Senderismo ",
@@ -42,6 +33,15 @@ module.exports = {
     "price": "6,99",
     "rating": "4,0★",
     "reviews": 115
+   },
+   {
+    "asin": "B0DXQ4M7M5",
+    "title": "TSPRO Correa Ajustable Manos Libres para Perros Medianos y Grandes",
+    "note": "Top ventas en Amazon.es: 4,5★ con 31 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/71SX0n1s70L._AC_UL320_.jpg",
+    "price": "19,99",
+    "rating": "4,5★",
+    "reviews": 31
    }
   ],
   "comederos-automaticos-para-mascotas": [
@@ -53,15 +53,6 @@ module.exports = {
     "price": "69,99",
     "rating": "4,4★",
     "reviews": 987
-   },
-   {
-    "asin": "B0DXVH99Q6",
-    "title": "IMIPAW Comedero Gato Automatico, 1-6 Comidas al Día, con Temporizador",
-    "note": "1-6 Comidas al Día; con Temporizador. Top ventas en Amazon.es: 4,5★ con 878 valoraciones.",
-    "img": "https://m.media-amazon.com/images/I/61ThGvtNiSL._AC_UL320_.jpg",
-    "price": "42,99",
-    "rating": "4,5★",
-    "reviews": 878
    }
   ],
   "fuentes-de-agua-para-mascotas": [
@@ -85,15 +76,6 @@ module.exports = {
    }
   ],
   "camas-para-perros": [
-   {
-    "asin": "B0F66YF2HM",
-    "title": "Ortopédica Cama Perros Medianos,Impermeable Cama de Perros,88x55x7cm",
-    "note": "Impermeable Cama de Perros; 88x55x7cm. Top ventas en Amazon.es: 4,5★ con 903 valoraciones. 50+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/61POS43JU9L._AC_UL320_.jpg",
-    "price": "28,49",
-    "rating": "4,5★",
-    "reviews": 903
-   },
    {
     "asin": "B0CJJL7X1T",
     "title": "Brevanza Cama Perro CóModo Y CáLida, Felpa Camas para Gatos Invierno, Cojin Redonda Perro Antideslizante, Cojines Suave Lavable, para Gato Y Perros Me",
@@ -124,56 +106,9 @@ module.exports = {
     "reviews": 957
    }
   ],
-  "areneros-autolimpiables-para-gatos": [
-   {
-    "asin": "B0GXWH8MSB",
-    "title": "Arenero Gatos Autolimpiable XXL, Caja Arena Gato Automatica con App Control, Antifugas, Atrapamiento, Olores, con Sensores de Seguridad, para Múltiple",
-    "note": "Caja Arena Gato Automatica con App Control; Antifugas. Top ventas en Amazon.es: 5,0★ con 35.483 valoraciones. 50+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/71StbCWw1FL._AC_UL320_.jpg",
-    "price": "179,99",
-    "rating": "5,0★",
-    "reviews": 35483
-   },
-   {
-    "asin": "B0FMRB7Z2S",
-    "title": "Devoko Arenero Gatos Autolimpiable 90L, Arenero Automatico y App, Anti-Olor",
-    "note": "Arenero Automatico y App; Anti-Olor. Top ventas en Amazon.es: 4,2★ con 492 valoraciones.",
-    "img": "https://m.media-amazon.com/images/I/71V6clv---L._AC_UL320_.jpg",
-    "price": "211,99",
-    "rating": "4,2★",
-    "reviews": 492
-   }
-  ],
-  "rascadores-para-gatos": [
-   {
-    "asin": "B0G13TTB4G",
-    "title": "Heybly Árbol para Gatos de 115 cm, Torre para Gatos con Plataforma Grande, Cesta Colgante y Cueva, Postes Rascadores de Sisal, Pelotas Colgantes y Coj",
-    "note": "Torre para Gatos con Plataforma Grande; Cesta Colgante y Cueva. Top ventas en Amazon.es: 4,5★ con 753 valoraciones.",
-    "img": "https://m.media-amazon.com/images/I/7140Z1PplkL._AC_UL320_.jpg",
-    "price": "43,99",
-    "rating": "4,5★",
-    "reviews": 753
-   },
-   {
-    "asin": "B0DZCHXD96",
-    "title": "Heybly Rascador para Gatos, El Cepillo de Autolimpieza, El Árbol para Gatos Domésticos, con Peluche Liso, Silla de Descanso, Nido de Gato con Panel y ",
-    "note": "El Cepillo de Autolimpieza; El Árbol para Gatos Domésticos. Top ventas en Amazon.es: 4,5★ con 718 valoraciones.",
-    "img": "https://m.media-amazon.com/images/I/81KiSfTXcyL._AC_UL320_.jpg",
-    "price": "44,99",
-    "rating": "4,5★",
-    "reviews": 718
-   }
-  ],
+  "areneros-autolimpiables-para-gatos": [],
+  "rascadores-para-gatos": [],
   "juguetes-interactivos-para-perros": [
-   {
-    "asin": "B093KN1XQZ",
-    "title": "Nobleza - Alfombra Olfativa Juego de Inteligencia para Perros – Juguete Interactivos Snuffle Mat para Perros - Estera de Alimentación Lenta Portátil p",
-    "note": "Alfombra Olfativa Juego de Inteligencia para Perros; Juguete Interactivos Snuffle Mat para Perros. Top ventas en Amazon.es: 4,4★ con 751 valoraciones. 100+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/61DpaENoSTL._AC_UL320_.jpg",
-    "price": "14,52",
-    "rating": "4,4★",
-    "reviews": 751
-   },
    {
     "asin": "B0GF8NQ3JV",
     "title": "Juguete Interactivo Perro Juguete Perro Interactivo para Tedioso",
@@ -193,15 +128,6 @@ module.exports = {
     "price": "53,89",
     "rating": "4,1★",
     "reviews": 131
-   },
-   {
-    "asin": "B0HDHDS35P",
-    "title": "Localizador GPS para Gatos y Perros,Collar GPS Compatible con iOS y Android",
-    "note": "Collar GPS Compatible con iOS y Android. Top ventas en Amazon.es: 4,5★ con 48 valoraciones.",
-    "img": "https://m.media-amazon.com/images/I/71pq2GYV5nL._AC_UL320_.jpg",
-    "price": "25,99",
-    "rating": "4,5★",
-    "reviews": 48
    }
   ]
  },
