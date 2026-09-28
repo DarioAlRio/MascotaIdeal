@@ -7,6 +7,1700 @@
   "redirects": [
     {
       "source": "/comparativas/amazon-basics-arbol-para-gatos-de-interi-vs-trixie-poste-rascador-para-fijar-en-pare.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-torre-multinivel-para-gato-vs-amazon-basics-arbol-para-gatos-de-interi.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-torre-multinivel-para-gato-vs-trixie-poste-rascador-para-fijar-en-pare.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aomig-correa-perro-vs-correa-de-perro.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arenero-gatos-autolimpiable-xxl-vs-feelneedy-arenero-autolimpiable-65l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arenero-gatos-autolimpiable-xxl-vs-petkit-pura-max-2-arenero-autolimpiable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arnes-perro-grande-mediano-vs-onetigris-arnes-de-apoyo-invictus.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/balimo-comedero-automatico-wifi-3l-vs-edipets-dispensador-automatico-comida.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/brevanza-cama-perro-comodo-y-calida-vs-eheyciga-cama-extra-grande-112x81x16cm.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/brevanza-cama-perro-comodo-y-calida-vs-ksiia-cama-ortopedica-para-perros-grande.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/brevanza-cama-perro-comodo-y-calida-vs-wavve-cama-extra-grande-ortopedica.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/brevanza-cama-perro-comodo-y-calida-vs-yagu-cama-para-perros-y-gatos-t-1.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-2-en-1-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-2-en-1-vs-pitpat-localizador-gps-perros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-pitpat-localizador-gps-perros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-perro-flexible-vs-collar-gps-gatos-2-en-1.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-perro-flexible-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-perro-flexible-vs-pitpat-localizador-gps-perros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-automatico-para-razas-grandes-vs-balimo-comedero-automatico-wifi-3l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-automatico-para-razas-grandes-vs-edipets-dispensador-automatico-comida.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-automatico-para-razas-grandes-vs-petkit-comedero-automatico-con-camara.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-balimo-comedero-automatico-wifi-3l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-comedero-automatico-para-razas-grandes.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-edipets-dispensador-automatico-comida.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/comedero-gato-automatico-5g-wifi-vs-petkit-comedero-automatico-con-camara.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/correa-de-control-para-perros-halti-vs-flexi-classic-l-cinta-8m.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/correa-de-perro-vs-tspro-correa-ajustable-manos-libres.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/correas-para-perros-flexi-vs-edipets.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/correas-para-perros-taglory-vs-edipets.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/devoko-arenero-gatos-autolimpiable-90l-vs-feelneedy-arenero-autolimpiable-65l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/devoko-arenero-gatos-autolimpiable-90l-vs-petkit-pura-max-2-arenero-autolimpiable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/edipets-correa-extensible-retractil-5m-vs-correa-de-control-para-perros-halti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/edipets-correa-extensible-retractil-5m-vs-flexi-classic-l-cinta-8m.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/edipets-correa-extensible-retractil-5m-vs-flexi-classic-s-correa-retractil-de-cint.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/edipets-correa-extensible-retractil-5m-vs-halti-correa-de-adiestramiento.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/feelneedy-8l-fuente-para-gatos-sin-cable-vs-fuente-acero-inoxidable-estilo-grifo.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/feelneedy-8l-fuente-para-gatos-sin-cable-vs-petkit-eversweet-fuente-2l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/feelneedy-8l-fuente-para-gatos-sin-cable-vs-petkit-eversweet-fuente-acero-inoxidable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/feelneedy-arenero-autolimpiable-65l-vs-petkit-pura-max-2-arenero-autolimpiable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/flagest-asiento-de-coche-para-perros-vs-fukumaru-transportin-bolsa-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/flagest-asiento-de-coche-para-perros-vs-morpilot-transportin-blando-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/flagest-asiento-de-coche-para-perros-vs-pecute-mochila-transportin-para-gato.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/flexi-classic-s-correa-retractil-de-cint-vs-correa-de-control-para-perros-halti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/flexi-classic-s-correa-retractil-de-cint-vs-flexi-classic-l-cinta-8m.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/flexi-classic-s-correa-retractil-de-cint-vs-halti-correa-de-adiestramiento.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-acero-inoxidable-estilo-grifo-vs-petkit-eversweet-fuente-2l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-acero-inoxidable-estilo-grifo-vs-petkit-eversweet-fuente-acero-inoxidable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-feelneedy-8l-fuente-para-gatos-sin-cable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-fuente-acero-inoxidable-estilo-grifo.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-fuente-automatica-2.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-fuente-para-gatos-sin-cable-bebedero.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-petkit-eversweet-fuente-2l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-de-agua-2-vs-petkit-eversweet-fuente-acero-inoxidable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-para-gatos-sin-cable-bebedero-vs-feelneedy-8l-fuente-para-gatos-sin-cable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-para-gatos-sin-cable-bebedero-vs-fuente-acero-inoxidable-estilo-grifo.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-para-gatos-sin-cable-bebedero-vs-petkit-eversweet-fuente-2l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fuente-para-gatos-sin-cable-bebedero-vs-petkit-eversweet-fuente-acero-inoxidable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fukumaru-transportin-bolsa-transpirable-vs-morpilot-transportin-blando-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gitelsnour-arbol-rascador-para-gatitos-vs-amazon-basics-arbol-para-gatos-de-interi.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gitelsnour-arbol-rascador-para-gatitos-vs-amazon-basics-torre-multinivel-para-gato.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gitelsnour-arbol-rascador-para-gatitos-vs-amazon-basics-torre-para-gatos-con-hamac.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gitelsnour-arbol-rascador-para-gatitos-vs-trixie-poste-rascador-para-fijar-en-pare.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/haapaw-arnes-para-perro-sin-tirar-vs-rabbitgoo-arnes-perro-pequeno.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/halti-correa-de-adiestramiento-vs-correa-de-control-para-perros-halti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/halti-correa-de-adiestramiento-vs-flexi-classic-l-cinta-8m.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-arbol-para-gatos-de-115-cm-vs-amazon-basics-arbol-para-gatos-de-interi.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-arbol-para-gatos-de-115-cm-vs-amazon-basics-torre-multinivel-para-gato.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-arbol-para-gatos-de-115-cm-vs-amazon-basics-torre-para-gatos-con-hamac.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-arbol-para-gatos-de-115-cm-vs-gitelsnour-arbol-rascador-para-gatitos.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-arbol-para-gatos-de-115-cm-vs-heybly-rascador-para-gatos.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-arbol-para-gatos-de-115-cm-vs-trixie-poste-rascador-para-fijar-en-pare.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-rascador-para-gatos-vs-amazon-basics-arbol-para-gatos-de-interi.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-rascador-para-gatos-vs-amazon-basics-torre-multinivel-para-gato.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-rascador-para-gatos-vs-gitelsnour-arbol-rascador-para-gatitos.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/heybly-rascador-para-gatos-vs-trixie-poste-rascador-para-fijar-en-pare.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/imipaw-comedero-gato-automatico-vs-balimo-comedero-automatico-wifi-3l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/imipaw-comedero-gato-automatico-vs-petkit-comedero-automatico-con-camara.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/jophek-dispensador-de-premios-interactiv-vs-nina-ottosson-dog-brick-puzzle-interacti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/juguete-interactivo-perro-juguete-perro-vs-jophek-dispensador-de-premios-interactiv.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/juguete-interactivo-perro-juguete-perro-vs-kong-classic-juguete-rellenable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/juguete-interactivo-perro-juguete-perro-vs-nina-ottosson-dog-brick-puzzle-interacti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/juguetes-interactivos-para-perros-kong-vs-trixie.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/juguetes-interactivos-para-perros-nina-vs-trixie.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/julius-k9-arnes-idc-vs-haapaw-arnes-para-perro-sin-tirar.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/julius-k9-arnes-idc-vs-rabbitgoo-arnes-perro-pequeno.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/julius-k9-arnes-idc-vs-trixie-arnes-premium-para-perros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kong-classic-juguete-rellenable-vs-jophek-dispensador-de-premios-interactiv.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kong-classic-juguete-rellenable-vs-nina-ottosson-dog-brick-puzzle-interacti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ksiia-cama-ortopedica-para-perros-grande-vs-eheyciga-cama-extra-grande-112x81x16cm.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/localizador-gps-perros-y-gatos-vs-collar-gps-gatos-2-en-1.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/localizador-gps-perros-y-gatos-vs-collar-gps-perro-flexible.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/localizador-gps-perros-y-gatos-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/localizador-gps-perros-y-gatos-vs-pitpat-localizador-gps-perros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-jophek-dispensador-de-premios-interactiv.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-juguete-interactivo-perro-juguete-perro.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-kong-classic-juguete-rellenable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-nina-ottosson-dog-brick-puzzle-interacti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-nobleza.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nina-ottosson-dog-worker-puzzle-vs-trixie-dog-activity-turn-around.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nobleza-vs-jophek-dispensador-de-premios-interactiv.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nobleza-vs-juguete-interactivo-perro-juguete-perro.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nobleza-vs-kong-classic-juguete-rellenable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nobleza-vs-nina-ottosson-dog-brick-puzzle-interacti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/juguetes-interactivos-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/onetigris-arnes-de-apoyo-invictus-vs-haapaw-arnes-para-perro-sin-tirar.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/onetigris-arnes-de-apoyo-invictus-vs-julius-k9-arnes-idc.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/onetigris-arnes-de-apoyo-invictus-vs-rabbitgoo-arnes-perro-pequeno.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/onetigris-arnes-de-apoyo-invictus-vs-trixie-arnes-premium-para-perros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ortopedica-cama-perros-vs-eheyciga-cama-extra-grande-112x81x16cm.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ortopedica-cama-perros-vs-ksiia-cama-ortopedica-para-perros-grande.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ortopedica-cama-perros-vs-wavve-cama-extra-grande-ortopedica.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ortopedica-cama-perros-vs-yagu-cama-para-perros-y-gatos-t-1.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/pecute-mochila-transportin-para-gato-vs-fukumaru-transportin-bolsa-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/pecute-mochila-transportin-para-gato-vs-morpilot-transportin-blando-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-comedero-automatico-con-camara-vs-balimo-comedero-automatico-wifi-3l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-comedero-automatico-con-camara-vs-edipets-dispensador-automatico-comida.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/comederos-automaticos-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-eversweet-fuente-2l-vs-petkit-eversweet-fuente-acero-inoxidable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-purobot-max-3-arenero-autolimpiab-vs-devoko-arenero-gatos-autolimpiable-90l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-purobot-max-3-arenero-autolimpiab-vs-feelneedy-arenero-autolimpiable-65l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-purobot-max-3-arenero-autolimpiab-vs-petkit-pura-max-2-arenero-autolimpiable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/petkit-purobot-max-3-arenero-autolimpiab-vs-ubpet-xxxl-arenero-autolimpiable-106l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/pitpat-localizador-gps-perros-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rabbitgoo-arnes-perro-grande-vs-haapaw-arnes-para-perro-sin-tirar.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rabbitgoo-arnes-perro-grande-vs-rabbitgoo-arnes-perro-pequeno.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rascadores-para-gatos-amazon-vs-feandrea.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rascadores-para-gatos-amazon-vs-yaheetech.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rascadores-para-gatos-feandrea-vs-yaheetech.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rascadores-para-gatos-heybly-vs-feandrea.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/rascadores-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-correa-de-control-para-perros-halti.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-edipets-correa-extensible-retractil-5m.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-flexi-classic-l-cinta-8m.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-flexi-classic-s-correa-retractil-de-cint.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-halti-correa-de-adiestramiento.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taglory-correa-antitirones-1-vs-rever-correa-para-perros-nailon-trenzado.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/correas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/trixie-arnes-premium-para-perros-vs-haapaw-arnes-para-perro-sin-tirar.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/trixie-arnes-premium-para-perros-vs-rabbitgoo-arnes-perro-pequeno.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/arneses-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ubpet-xxxl-arenero-autolimpiable-106l-vs-devoko-arenero-gatos-autolimpiable-90l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ubpet-xxxl-arenero-autolimpiable-106l-vs-feelneedy-arenero-autolimpiable-65l.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ubpet-xxxl-arenero-autolimpiable-106l-vs-petkit-pura-max-2-arenero-autolimpiable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/areneros-autolimpiables-para-gatos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vobuke-transportin-expandible-200-vs-flagest-asiento-de-coche-para-perros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vobuke-transportin-expandible-200-vs-fukumaru-transportin-bolsa-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vobuke-transportin-expandible-200-vs-morpilot-transportin-blando-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vobuke-transportin-expandible-200-vs-pecute-mochila-transportin-para-gato.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vounot-transportin-perro-gato-s-vs-fukumaru-transportin-bolsa-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vounot-transportin-perro-gato-s-vs-morpilot-transportin-blando-transpirable.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/vounot-transportin-perro-gato-s-vs-pecute-mochila-transportin-para-gato.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/transportines-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/wavve-cama-extra-grande-ortopedica-vs-eheyciga-cama-extra-grande-112x81x16cm.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/wavve-cama-extra-grande-ortopedica-vs-ksiia-cama-ortopedica-para-perros-grande.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yagu-cama-para-perros-y-gatos-t-1-vs-eheyciga-cama-extra-grande-112x81x16cm.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yagu-cama-para-perros-y-gatos-t-1-vs-ksiia-cama-ortopedica-para-perros-grande.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yagu-cama-para-perros-y-gatos-t-1-vs-wavve-cama-extra-grande-ortopedica.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/camas-para-perros-perros-grandes.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/camas-para-perros.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/fuentes-de-agua-para-mascotas-menos-de-25-euros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/mejores/fuentes-de-agua-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-arbol-para-gatos-de-interi-vs-trixie-poste-rascador-para-fijar-en-pare.html",
       "destination": "/guias/rascadores-para-gatos.html",
       "permanent": true
     },
