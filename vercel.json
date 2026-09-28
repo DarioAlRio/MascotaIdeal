@@ -1689,14 +1689,14 @@
       "permanent": true
     },
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [
         {
           "type": "host",
           "value": "mascota-ideal.vercel.app"
         }
       ],
-      "destination": "https://mascotaideal.es/:path*",
+      "destination": "https://mascotaideal.es/$1",
       "permanent": true
     },
     {
