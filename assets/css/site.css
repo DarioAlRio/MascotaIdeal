@@ -412,7 +412,7 @@ table { border-collapse: collapse; width: 100%; }
 }
 .cookiebar-inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 18px 24px; flex-wrap: wrap; }
 .cookiebar p { margin: 0; font-size: 0.9rem; max-width: 62ch; }
-.cookiebar a { color: var(--color-accent); text-decoration: underline; }
+.cookiebar a { color: inherit; text-decoration: underline; font-weight: 600; }
 .cookiebar-actions { display: flex; gap: 10px; flex-shrink: 0; }
 .cookiebar .btn-ghost { border-color: rgba(255,255,255,0.35); color: var(--color-bg); }
 
@@ -541,5 +541,5 @@ table { border-collapse: collapse; width: 100%; }
 .section-head h2 { display: inline-block; background: linear-gradient(transparent 62%, color-mix(in srgb, var(--color-accent) 55%, transparent) 62%); }
 .card { border: 3px solid var(--color-ink); box-shadow: 5px 5px 0 var(--color-ink); }
 .card:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--color-ink); }
-.cta-band { background: var(--color-brand); border-top: 3px solid var(--color-ink); border-bottom: 3px solid var(--color-ink); }
+.cta-band { background: #2f8f7a; color: #fff; border-top: 3px solid var(--color-ink); border-bottom: 3px solid var(--color-ink); }
 .site-footer { border-top: 3px solid var(--color-ink); }
