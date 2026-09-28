@@ -569,3 +569,8 @@ table { border-collapse: collapse; width: 100%; }
 .card:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--color-ink); }
 .cta-band { background: #2f8f7a; color: #fff; border-top: 3px solid var(--color-ink); border-bottom: 3px solid var(--color-ink); }
 .site-footer { border-top: 3px solid var(--color-ink); }
+
+/* sticky-footer-gap: la barra fija de producto no tapa el final del pie */
+body:has(.seo-sticky) { padding-bottom: 76px; }
+body:has(.seo-sticky) .seo-sticky-space { display: none; }
+@media (max-width: 640px) { body:has(.seo-sticky) { padding-bottom: 96px; } }
