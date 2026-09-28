@@ -505,3 +505,27 @@ table { border-collapse: collapse; width: 100%; }
 .seo-chips a{border:1px solid var(--color-border);border-radius:999px;padding:4px 12px;font-size:.85rem;background:var(--color-surface)}
 .seo-brand-vs{display:grid;grid-template-columns:1fr 1fr;gap:20px}
 @media (max-width:640px){.seo-related ul{columns:1}.seo-brand-vs{grid-template-columns:1fr}.seo-sticky-txt strong{display:block;overflow:hidden;text-overflow:ellipsis}}
+
+/* ==========================================================================
+   Identidad propia MascotaIdeal — "juguetón"
+   Tarjetas con borde grueso y sombra desplazada, botones "de goma",
+   huellas decorativas en la portada y separador ondulado.
+   ========================================================================== */
+:root { --radius-sm: 14px; --radius-md: 20px; --radius-lg: 28px; }
+.site-header { border-bottom: 3px solid var(--color-ink); }
+.hero { background-image: none; background-color: color-mix(in srgb, var(--color-accent) 16%, var(--color-bg)); }
+.hero::before { opacity: 0.5; background:
+  radial-gradient(circle, color-mix(in srgb, var(--color-brand) 30%, transparent) 0 5px, transparent 6px) 0 0 / 46px 46px; }
+.hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: -1px; height: 26px; z-index: 1;
+  background: radial-gradient(circle at 20px -8px, transparent 22px, var(--color-bg) 23px) 0 0 / 40px 26px repeat-x; }
+.hero-art-card { border: 3px solid var(--color-ink); box-shadow: 6px 6px 0 var(--color-ink); }
+.hero-art-card:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--color-ink); }
+.hero-art-card:nth-child(2n) { margin-top: 0; transform: rotate(2deg); }
+.btn { border: 2px solid var(--color-ink); box-shadow: 0 4px 0 var(--color-ink); }
+.btn:hover { transform: translateY(2px); box-shadow: 0 2px 0 var(--color-ink); }
+.eyebrow::before { content: "🐾 "; }
+.section-head h2 { display: inline-block; background: linear-gradient(transparent 62%, color-mix(in srgb, var(--color-accent) 55%, transparent) 62%); }
+.card { border: 3px solid var(--color-ink); box-shadow: 5px 5px 0 var(--color-ink); }
+.card:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--color-ink); }
+.cta-band { background: var(--color-brand); border-top: 3px solid var(--color-ink); border-bottom: 3px solid var(--color-ink); }
+.site-footer { border-top: 3px solid var(--color-ink); }
