@@ -566,7 +566,7 @@ module.exports = {
    ]
   },
   {
-   "updated": "2026-09-24",
+   "updated": "2026-10-01",
    "slug": "alfombra-olfativa-para-perros-para-que-sirve",
    "guide": "juguetes-interactivos-para-perros",
    "title": "Alfombra olfativa para perros: para qué sirve y cómo usarla",
@@ -579,6 +579,15 @@ module.exports = {
     "Empieza con premios visibles y ve escondiéndolos más. Úsala siempre con supervisión al principio para que no la muerda.",
     "<h2>Mantenimiento</h2>",
     "Sacúdela después de cada uso y lávala en lavadora cada 1-2 semanas.",
+    "<h2>Qué perros la aprovechan más</h2>",
+    "Casi todos los perros disfrutan olfateando, pero hay perfiles para los que la alfombra olfativa es especialmente útil: perros que comen demasiado rápido, razas de caza y pastoreo con mucha energía mental, perros mayores o en reposo tras una operación que no pueden hacer paseos largos, y perros nerviosos que se calman al concentrarse en una tarea.",
+    "<h2>Cómo elegir una buena alfombra</h2>",
+    "Fíjate en tres cosas. La densidad de las tiras: cuantas más, más difícil encontrar la comida. La base: una base antideslizante evita que el perro la arrastre por la casa. Y el lavado: debe poder meterse en la lavadora, porque acumula restos de comida y babas.",
+    "Las de tamaño grande sirven para toda la ración de pienso; las pequeñas, para premios. Para perros grandes o muy impacientes, busca modelos con cierres o bolsillos que suban la dificultad.",
+    "<h2>Ideas para variar</h2>",
+    "<ul><li>Sirve parte de la cena en la alfombra en lugar del comedero.</li><li>Esconde la alfombra en otra habitación y deja que la busque.</li><li>Combina pienso con un premio más oloroso para empezar, y retíralo poco a poco.</li><li>Úsala antes de salir de casa para que se quede tranquilo.</li></ul>",
+    "<h2>Cuándo no usarla</h2>",
+    "Si tu perro tiende a destrozar tejidos o a tragarse trozos de tela, no lo dejes a solas con ella: una tira ingerida puede causar una obstrucción. En esos casos, los juguetes dispensadores de plástico duro o los puzzles son una alternativa más segura.",
     "Tienes alfombras olfativas y otros juguetes en el <a href=\"/mejores/juguetes-interactivos-para-perros.html\">ranking de juguetes interactivos 2026</a>."
    ]
   }
