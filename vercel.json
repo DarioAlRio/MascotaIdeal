@@ -160,6 +160,39 @@
       "statusCode": 301
     },
     {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-collar-gps-gatos-2-en-1.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-collar-gps-perro-flexible.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-localizador-gps-perros-y-gatos.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "statusCode": 301
+    },
+    {
       "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
       "has": [
         {
@@ -182,29 +215,7 @@
       "statusCode": 301
     },
     {
-      "source": "/comparativas/collar-gps-perro-flexible-vs-collar-gps-gatos-2-en-1.html",
-      "has": [
-        {
-          "type": "host",
-          "value": "mascota-ideal.vercel.app"
-        }
-      ],
-      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
-      "statusCode": 301
-    },
-    {
       "source": "/comparativas/collar-gps-perro-flexible-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
-      "has": [
-        {
-          "type": "host",
-          "value": "mascota-ideal.vercel.app"
-        }
-      ],
-      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
-      "statusCode": 301
-    },
-    {
-      "source": "/comparativas/collar-gps-perro-flexible-vs-pitpat-localizador-gps-perros.html",
       "has": [
         {
           "type": "host",
@@ -1689,6 +1700,39 @@
       "statusCode": 301
     },
     {
+      "source": "/productos/collar-gps-gatos-2-en-1-compatible-ios-android-b0hf38qs46.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/productos/collar-gps-gatos-sin-suscripcion-seguimiento-en-tiempo-real-b0hd67tg23.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/productos/localizador-gps-perros-y-gatos-compatible-ios-android-sin-suscripcion-ip67-b0hgqjb11x.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "mascota-ideal.vercel.app"
+        }
+      ],
+      "destination": "https://mascotaideal.es/guias/collares-gps-para-mascotas.html",
+      "statusCode": 301
+    },
+    {
       "source": "/(.*)",
       "has": [
         {
@@ -1770,6 +1814,21 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-collar-gps-gatos-2-en-1.html",
+      "destination": "/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-collar-gps-perro-flexible.html",
+      "destination": "/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-localizador-gps-perros-y-gatos.html",
+      "destination": "/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/collar-gps-gatos-sin-suscripcion-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
       "destination": "/guias/collares-gps-para-mascotas.html",
       "permanent": true
@@ -1780,17 +1839,7 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/collar-gps-perro-flexible-vs-collar-gps-gatos-2-en-1.html",
-      "destination": "/guias/collares-gps-para-mascotas.html",
-      "permanent": true
-    },
-    {
       "source": "/comparativas/collar-gps-perro-flexible-vs-molly-cody-gps-tracker-para-perros-y-gat.html",
-      "destination": "/guias/collares-gps-para-mascotas.html",
-      "permanent": true
-    },
-    {
-      "source": "/comparativas/collar-gps-perro-flexible-vs-pitpat-localizador-gps-perros.html",
       "destination": "/guias/collares-gps-para-mascotas.html",
       "permanent": true
     },
@@ -2465,6 +2514,21 @@
       "permanent": true
     },
     {
+      "source": "/productos/collar-gps-gatos-2-en-1-compatible-ios-android-b0hf38qs46.html",
+      "destination": "/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/collar-gps-gatos-sin-suscripcion-seguimiento-en-tiempo-real-b0hd67tg23.html",
+      "destination": "/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/localizador-gps-perros-y-gatos-compatible-ios-android-sin-suscripcion-ip67-b0hgqjb11x.html",
+      "destination": "/guias/collares-gps-para-mascotas.html",
+      "permanent": true
+    },
+    {
       "source": "/:section(guias|blog|comparativas|productos|legal|mejores)/:slug([^/.]+)",
       "destination": "/:section/:slug.html",
       "permanent": true
@@ -2486,6 +2550,18 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests"
         }
       ]
     },
