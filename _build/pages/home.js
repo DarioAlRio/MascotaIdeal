@@ -144,6 +144,7 @@ function home() {
         "@type": "Organization",
         name: SITE.name,
         url: SITE.domain,
+        sameAs: ["https://es.pinterest.com/guiasdecompra/"],
       },
     ],
     html,
