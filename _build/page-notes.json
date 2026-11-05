@@ -1,1 +1,66 @@
-{}
+{
+ "/mejores/collares-gps-para-mascotas.html": [
+  {
+   "h": "GPS con suscripción, sin suscripción o localizador Bluetooth",
+   "p": [
+    "Un collar GPS con tarjeta SIM envía la ubicación en tiempo real a cualquier distancia, pero casi siempre exige una cuota mensual. Los modelos sin suscripción suelen funcionar por radio o por Bluetooth y solo sirven dentro de un radio limitado.",
+    "Un localizador tipo AirTag no es un GPS: solo sabe dónde está tu perro si pasa cerca un móvil compatible. Para perros que se escapan al campo no basta."
+   ]
+  },
+  {
+   "h": "Batería, peso y resistencia al agua",
+   "p": [
+    "Con el seguimiento en vivo activado, la batería dura horas; en modo normal, varios días. Mira el dato de autonomía en modo normal y la carga.",
+    "Para gatos o perros pequeños, el dispositivo no debería pasar de unos 30 g. Y si tu perro se baña en ríos o en el mar, busca protección IP67 o superior."
+   ]
+  }
+ ],
+ "/mejores/arneses-para-perros.html": [
+  {
+   "h": "Cómo saber qué talla de arnés tiene tu perro",
+   "p": [
+    "La medida que manda es el perímetro del pecho: pasa la cinta métrica por la parte más ancha, justo detrás de las patas delanteras. Mide también el cuello en la base. Si tu perro está entre dos tallas, elige la mayor y ajusta las correas.",
+    "Una vez puesto, deben caber dos dedos entre el arnés y el cuerpo. Si cabe la mano entera, se puede escapar; si no caben los dedos, le rozará en las axilas."
+   ]
+  },
+  {
+   "h": "Arnés antitirones o arnés en Y",
+   "p": [
+    "Los antitirones llevan una anilla en el pecho: al tirar, el perro gira hacia ti y le cuesta seguir tirando. Ayudan durante el adiestramiento, pero no lo sustituyen.",
+    "Para paseos largos o deporte, un arnés en Y que deje libres los hombros permite al perro moverse con naturalidad."
+   ]
+  }
+ ],
+ "/mejores/camas-para-perros.html": [
+  {
+   "h": "Cama para perro de raza pequeña o grande",
+   "p": [
+    "Mide a tu perro tumbado y estirado, del hocico a la base de la cola, y añade unos 15–20 cm. Los perros pequeños que duermen hechos un ovillo agradecen camas con borde alto, tipo nido, donde apoyar la cabeza.",
+    "Los perros grandes y los mayores necesitan una base firme que no se hunda hasta el suelo: espuma viscoelástica u ortopédica de varios centímetros."
+   ]
+  },
+  {
+   "h": "Que se pueda lavar de verdad",
+   "p": [
+    "Lo que más alarga la vida de una cama es que la funda se quite con cremallera y entre en la lavadora. Las camas que solo se pueden lavar enteras acaban oliendo pronto.",
+    "Si tu perro muerde, evita los rellenos de fibra suelta: si rompe la funda, los traga."
+   ]
+  }
+ ],
+ "/mejores/fuentes-de-agua-para-mascotas.html": [
+  {
+   "h": "Por qué una fuente ayuda a que beban más",
+   "p": [
+    "Muchos gatos beben poco porque prefieren el agua en movimiento. Una fuente con circulación anima a beber y ayuda a prevenir problemas urinarios, frecuentes en gatos que comen pienso seco.",
+    "Para perros, la fuente tiene sentido si pasan muchas horas solos; para perros grandes, el depósito debe ser de varios litros."
+   ]
+  },
+  {
+   "h": "Mantenimiento: filtros y bomba",
+   "p": [
+    "Los filtros se cambian cada 2–4 semanas según el modelo: suma su coste antes de comprar, porque en algunas fuentes salen más caros que la propia fuente al año.",
+    "Las de acero inoxidable se limpian mejor que las de plástico, que pueden rayarse y acumular biofilm. Una bomba silenciosa importa si la fuente va en un dormitorio."
+   ]
+  }
+ ]
+}

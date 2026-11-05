@@ -198,7 +198,7 @@ function page({ path, title, description, bodyClass = "", jsonLd = [], noindex =
   ${breadcrumbsItems ? breadcrumbs(breadcrumbsItems) : ""}
   <main id="contenido">
     ${main}
-    ${path.startsWith("/legal/") ? "" : featuredProductsSection(FEATURED, excludeCategory)}
+    ${path === "/" || path === "/404.html" ? featuredProductsSection(FEATURED, excludeCategory) : ""}
   </main>
   ${footerHtml(FOOT)}
   ${cookieBanner()}

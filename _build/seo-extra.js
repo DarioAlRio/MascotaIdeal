@@ -200,10 +200,46 @@ function fitDescription(d) {
 const BYLINE = `<p class="byline">Por el equipo editorial de ${SITE.name} · <a href="${ABOUT}">Cómo elegimos los productos</a></p>`;
 const orgRef = () => ({ "@type": "Organization", name: SITE.name, url: SITE.domain + ABOUT });
 
+// Poda de contenido escalado (05-11-2026): las webs .es cayeron a 0 impresiones
+// con las páginas indexadas. Solo se deja indexable lo que aporta algo propio;
+// el resto pasa a noindex, follow (sigue enlazado y fuera del sitemap).
+const readJson = (f) => { try { return JSON.parse(fs.readFileSync(path.join(__dirname, f), "utf8")); } catch { return {}; } };
+const EDITORIAL = new Set(Object.keys(readJson("editorial.json")).map((a) => a.toLowerCase()));
+const NOTES = new Set(Object.keys(readJson("page-notes.json")));
+// Variantes casi duplicadas de otra (auditoría profunda ≥0,38 de similitud).
+const NEAR_DUP = new Set([
+  "/mejores/accesorios-cardio-con-lastre.html",
+  "/mejores/camaras-wifi-exterior-4g.html",
+]);
+function isThinPage(p) {
+  if (NEAR_DUP.has(p.path)) return true;
+  // Rankings de variante con menos de 6 productos: no es una selección, es un recorte.
+  if (/^\/mejores\/.+\.html$/.test(p.path) && !NOTES.has(p.path)) {
+    const n = (p.html.match(/class="seo-rank-item"/g) || []).length;
+    if (n > 0 && n < 6) return true;
+  }
+  // Artículos de menos de 300 palabras: no resuelven la duda.
+  if (/^\/blog\/.+\.html$/.test(p.path)) {
+    const words = p.html.replace(/<(script|style)[\s\S]*?<\/\1>/g, " ").replace(/<[^>]+>/g, " ").split(/\s+/).filter(Boolean).length;
+    if (words < 300) return true;
+  }
+  // Fichas de producto sin opinión propia: repiten la ficha de Amazon.
+  if (/^\/productos\/.+/.test(p.path)) {
+    const asin = (p.path.match(/b0[a-z0-9]{8}/) || [])[0];
+    return !asin || !EDITORIAL.has(asin);
+  }
+  // Variantes de ranking por marca o por tope de precio: misma lista filtrada.
+  if (/^\/mejores\/.+-(marca-[a-z0-9-]+|menos-de-\d+-euros)\.html$/.test(p.path)) return !NOTES.has(p.path);
+  // Comparativas sin texto propio.
+  if (/^\/comparativas\/.+/.test(p.path)) return !NOTES.has(p.path);
+  return false;
+}
+
 function tunePages(pages) {
   for (const p of pages) {
     if (isTemplateComparison(p)) p.noindex = true;
     if (p.path.startsWith("/legal/")) p.noindex = true;
+    if (isThinPage(p)) p.noindex = true;
 
     // Autor: la marca es una organización, no una persona.
     for (const o of p.jsonLd || []) {

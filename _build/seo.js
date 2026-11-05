@@ -199,6 +199,7 @@ function rankingPage(g) {
     <h2>Tabla comparativa del top ${top.length}</h2>
     ${tableHtml(top)}
     ${payMoreHtml(g, list)}
+    ${notesHtml(path)}
     <h2>Ranking completo de ${T}</h2>
     <ol class="seo-rank">${list.map((p, i) => rankItem(p, i, list)).join("\n")}</ol>
     ${g.checklist ? `<h2>Qué mirar antes de comprar ${T}</h2><ul>${g.checklist.map((c) => `<li>${c}</li>`).join("")}</ul>
