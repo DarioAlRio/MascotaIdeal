@@ -45,7 +45,19 @@ const amz = (p, label, cls = "btn btn-accent") =>
 // Texto propio por página (page-notes.json): análisis escrito a mano para esa URL concreta.
 let NOTES = {};
 try { NOTES = require("./page-notes.json"); } catch (e) { NOTES = {}; }
-const notesHtml = (p) => { const n = NOTES[p]; if (!n) return ""; return n.map((s) => `<h2>${s.h}</h2>${s.p.map((x) => `<p>${x}</p>`).join("")}`).join(""); };
+const notesHtml = (p) => { const n = NOTES[p]; if (!n) return ""; return n.map((s) => `<h2>${s.h}</h2>${(s.p || []).map((x) => `<p>${x}</p>`).join("")}${s.ul ? `<ul>${s.ul.map((x) => `<li>${x}</li>`).join("")}</ul>` : ""}${s.p2 ? s.p2.map((x) => `<p>${x}</p>`).join("") : ""}`).join(""); };
+// Guías: las secciones propias de page-notes.json van justo antes de las preguntas frecuentes.
+// Cuando una guía tiene texto nuevo, su fecha de actualización pasa a ser la de ese texto.
+const GUIDE_NOTES_UPDATED = "2026-11-17";
+const hasGuideNotes = (g) => !!NOTES[`/guias/${g.slug}.html`];
+function withGuideNotes(html, g) {
+  if (!hasGuideNotes(g)) return html;
+  const block = `<div class="content-section guide-notes">${notesHtml(`/guias/${g.slug}.html`)}</div>
+        `;
+  const faq = /<div class="content-section">\s*<h2>Preguntas frecuentes<\/h2>/;
+  if (faq.test(html)) return html.replace(faq, (m) => block + m);
+  return html.replace('<div class="content-section product-section">', block + '<div class="content-section product-section">');
+}
 
 function rankScore(p) {
   const r = stars(p);
@@ -190,7 +202,7 @@ function rankingPage(g) {
   const path = `/mejores/${g.slug}.html`;
   const title = `${/as$|^(luces|fuentes|sartenes|kettlebells|dash)$/.test(topic(g).split(" ")[0].toLowerCase()) ? "Las" : "Los"} ${top.length} mejores ${T} de ${YEAR}`;
   const crumbs = [{ label: "Inicio", href: "/" }, { label: `Top ${YEAR}`, href: "/mejores/" }, { label: cap(T) }];
-  const html = `${hero(`Ranking ${YEAR}`, `${title}: ranking calidad-precio`, `Comparamos ${list.length} ${T} con buenas opiniones en Amazon.es y ${G(g, "los", "las")} ordenamos por valoración real y número de compradores. Directo al grano: el podio arriba y el ranking completo debajo.`)}
+  const html = `${hero(`Ranking ${YEAR}`, `${title}: ranking calidad-precio`, `Comparamos ${list.length} ${T} con buenas opiniones en Amazon.es y ${G(g, "los", "las")} ordenamos según la satisfacción de los compradores en Amazon.es y su volumen de opiniones. Directo al grano: el podio arriba y el ranking completo debajo.`)}
   <section class="section"><div class="wrap">
     ${quickAnswer(g, pod)}
     <h2>Resumen rápido: nuestro podio</h2>
@@ -208,7 +220,7 @@ function rankingPage(g) {
     <h2>Preguntas frecuentes</h2>
     ${faqHtml(faq)}
   </div></section>`;
-  return { route: path.slice(1), path, title: `${title} (calidad-precio)`, description: `Ranking ${YEAR} de ${T}: ${G(g, "los", "las")} ${top.length} mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.`, breadcrumbsItems: crumbs, jsonLd: ld(path, title, crumbs, top, faq), excludeCategory: g.slug, html };
+  return { route: path.slice(1), path, title: `${title} (calidad-precio)`, description: `Ranking ${YEAR} de ${T}: ${G(g, "los", "las")} ${top.length} mejores, el de mejor calidad-precio y la opción más económica que merece la pena, con los criterios para elegir.`, breadcrumbsItems: crumbs, jsonLd: ld(path, title, crumbs, top, faq), excludeCategory: g.slug, html };
 }
 
 function budgetPage(g) {
@@ -484,7 +496,7 @@ function indexPage(vs) {
     <h2>Comparativas cara a cara</h2>
     <ul class="vs-grid">${vs.map((p) => `<li class="vs-card"><a href="${p.path}">${vsCover(p.pair[0], p.pair[1])}<span class="vs-card-title">${escapeHtml(p.title.replace(/: ¿.*$/, ""))}<small>¿Cuál comprar? Veredicto y diferencias</small></span></a></li>`).join("")}</ul>
   </div></section>`;
-  return { route: "mejores/index.html", path, title: `Mejores productos ${YEAR}: rankings y comparativas`, description: `Rankings ${YEAR} de ${SITE.name}: los mejores productos por categoría, presupuesto, uso y marca según opiniones reales en Amazon.es.`, breadcrumbsItems: crumbs, jsonLd: ld(path, "Top", crumbs), html };
+  return { route: "mejores/index.html", path, title: `Mejores productos ${YEAR}: rankings y comparativas`, description: `Rankings ${YEAR} de ${SITE.name}: los mejores productos por categoría, presupuesto, uso y marca según la satisfacción de los compradores en Amazon.es.`, breadcrumbsItems: crumbs, jsonLd: ld(path, "Top", crumbs), html };
 }
 
 // Banner que se inserta en cada guía: nº 1 con botón directo y accesos a todas las selecciones.
@@ -493,10 +505,11 @@ function guideBanner(g) {
   const top = ranked(g)[0];
   if (!top) return "";
   const sub = (RELATED.get(g.slug) || []).slice(1, 10);
+  // Sin "más recomendado" aquí: la guía ya tiene su propia elección arriba y dos
+  // veredictos distintos en la misma página (y en la barra fija) se contradecían.
   return `<section class="section seo-guide-banner"><div class="wrap"><div class="seo-verdict">
-    <strong>¿Sin tiempo?</strong> El más recomendado ahora mismo es <strong>${escapeHtml(shortName(top.title))}</strong>.
-    ${amz(top)} <a class="seo-link" href="/mejores/${g.slug}.html">Ver el top ${Math.min(10, g.products.length)} de ${YEAR}</a>
-  </div>${sub.length ? `<p class="seo-chips">${sub.map((x) => `<a href="${x.path}">${escapeHtml(x.label)}</a>`).join("")}</p>` : ""}</div></section>${sticky(top)}`;
+    <strong>¿Prefieres ir directo a la lista?</strong> <a class="seo-link" href="/mejores/${g.slug}.html">Ver el ranking de ${topic(g)} de ${YEAR}</a>
+  </div>${sub.length ? `<p class="seo-chips">${sub.map((x) => `<a href="${x.path}">${escapeHtml(x.label)}</a>`).join("")}</p>` : ""}</div></section>`;
 }
 
 const jac = (a, b) => { const s = new Set(a); const i = b.filter((x) => s.has(x)).length; return i / (s.size + b.length - i || 1); };
@@ -539,4 +552,4 @@ function seoPages() {
   return CACHE;
 }
 
-module.exports = { seoPages, guideBanner, ranked, topic };
+module.exports = { seoPages, guideBanner, ranked, topic, withGuideNotes, hasGuideNotes, GUIDE_NOTES_UPDATED };

@@ -49,7 +49,7 @@ const blogIndex = require("./_build/pages/blog-index");
 const articuloPage = require("./_build/pages/articulo");
 const { avisoLegal, politicaPrivacidad, politicaCookies } = require("./_build/pages/legal");
 const notFound = require("./_build/pages/not-found");
-const { seoPages, guideBanner } = require("./_build/seo");
+const { seoPages, guideBanner, withGuideNotes, hasGuideNotes, GUIDE_NOTES_UPDATED } = require("./_build/seo");
 const extra = require("./_build/seo-extra");
 
 // FOOT se completa aquí a partir de los datos reales, para no duplicar la
@@ -68,8 +68,9 @@ const pages = [
   home(),
   guiasIndex(),
   ...GUIDES.map((g) => {
+    if (hasGuideNotes(g)) g.updated = GUIDE_NOTES_UPDATED;
     const p = guiaPage(g);
-    p.html = p.html.replace('<section class="section">', guideBanner(g) + '<section class="section">');
+    p.html = withGuideNotes(p.html.replace('<section class="section">', guideBanner(g) + '<section class="section">'), g);
     return p;
   }),
   productosIndex(),
@@ -131,7 +132,7 @@ for (const p of pages) {
     p.jsonLd.unshift({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: items.map((c, i) => ({ "@type": "ListItem", position: i + 1, name: String(c.label).replace(/<[^>]+>/g, ""), item: SITE.domain + (c.href || p.path) })) });
   }
   if (/^\/(comparativas|guias)\/.+\.html$/.test(p.path) && !types.some((t) => /Article/.test(t))) {
-    p.jsonLd.push({ "@context": "https://schema.org", "@type": "Article", headline: p.title.slice(0, 110), description: p.description, image: img.startsWith("http") ? img : SITE.domain + img, datePublished: "2026-09-24", dateModified: "2026-09-24", author: { "@type": "Organization", name: SITE.name, url: SITE.domain + "/" }, publisher: { "@type": "Organization", name: SITE.name, url: SITE.domain + "/" }, mainEntityOfPage: SITE.domain + p.path });
+    p.jsonLd.push({ "@context": "https://schema.org", "@type": "Article", headline: p.title.slice(0, 110), description: p.description, image: img.startsWith("http") ? img : SITE.domain + img, datePublished: "2026-09-24", dateModified: ((p.path.startsWith("/guias/") && GUIDES.find((g) => `/guias/${g.slug}.html` === p.path)) || {}).updated || "2026-09-24", author: { "@type": "Organization", name: SITE.name, url: SITE.domain + "/" }, publisher: { "@type": "Organization", name: SITE.name, url: SITE.domain + "/" }, mainEntityOfPage: SITE.domain + p.path });
   }
 }
 
